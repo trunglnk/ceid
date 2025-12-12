@@ -1,0 +1,93 @@
+[
+        {
+            "ma_muc": "1",
+            "ten_muc": "Đánh giá tác động môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "2",
+            "ten_muc": "Kế hoạch bảo vệ môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "3",
+            "ten_muc": "Phương án bảo vệ môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "4",
+            "ten_muc": "Đề án bảo vệ môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "5",
+            "ten_muc": "Cam kết bảo vệ môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "6",
+            "ten_muc": "Đăng ký đạt tiêu chuẩn môi trường",
+            "loai": "C_LoaiVanBanDTM"
+        },
+        {
+            "ma_muc": "1",
+            "ten_muc": "Giấy xác nhận hoàn thành công trình bảo vệ môi trường",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "2",
+            "ten_muc": "Giấy phép xử lý chất thải nguy hại",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "3",
+            "ten_muc": "Sổ đăng ký chủ nguồn thải chất thải nguy hại",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "4",
+            "ten_muc": "Giấy phép xả khí thải",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "5",
+            "ten_muc": "Giấy phép xả nước thải vào nguồn nước",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "6",
+            "ten_muc": "Giấy phép xả nước thải vào công trình thủy lợi",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "7",
+            "ten_muc": "Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "8",
+            "ten_muc": "Giấy phép khai thác, sử dụng nước dưới đất",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "9",
+            "ten_muc": "Giấy phép môi trường",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "10",
+            "ten_muc": "Đăng ký môi trường",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "11",
+            "ten_muc": "Giấy phép khai thác khoáng sản",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        },
+        {
+            "ma_muc": "12",
+            "ten_muc": "Giấy phép khai thác và sử dụng nước mặt",
+            "loai": "C_LoaiGiayPhepMoiTruong"
+        }
+    
+]

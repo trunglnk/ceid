@@ -1,0 +1,376 @@
+.align {
+    &-start {
+        align-items: flex-start;
+    }
+
+    &-end {
+        align-items: flex-end;
+    }
+
+    &-center {
+        align-items: center;
+    }
+
+    &-baseline {
+        align-items: baseline;
+    }
+}
+
+.align-self {
+    &-start {
+        align-self: flex-start;
+    }
+
+    &-end {
+        align-self: flex-end;
+    }
+
+    &-center {
+        align-self: center;
+    }
+
+    &-baseline {
+        align-self: baseline;
+    }
+}
+
+.align-content {
+    &-start {
+        align-content: flex-start;
+    }
+
+    &-end {
+        align-content: flex-end;
+    }
+
+    &-center {
+        align-content: center;
+    }
+
+    &-space-between {
+        align-content: space-between;
+    }
+
+    &-space-around {
+        align-content: space-around;
+    }
+}
+
+.justify {
+    &-start {
+        justify-content: flex-start;
+    }
+
+    &-end {
+        justify-content: flex-end;
+    }
+
+    &-center {
+        justify-content: center;
+    }
+
+    &-space-around {
+        justify-content: space-around;
+    }
+
+    &-space-between {
+        justify-content: space-between;
+    }
+}
+
+.justify-self {
+    &-start {
+        justify-self: flex-start;
+    }
+
+    &-end {
+        justify-self: flex-end;
+    }
+
+    &-center {
+        justify-self: center;
+    }
+
+    &-baseline {
+        justify-self: baseline;
+    }
+}
+
+.spacer {
+    flex-grow: 1 !important;
+}
+
+.grow {
+    flex-grow: 1 !important;
+    flex-shrink: 0 !important;
+}
+
+.shrink {
+    flex-grow: 0 !important;
+    flex-shrink: 1 !important;
+}
+
+.scroll-y {
+    overflow-y: auto;
+}
+
+.fill-height {
+    height: 100%;
+}
+
+.hide-overflow {
+    overflow: hidden !important;
+}
+
+.show-overflow {
+    overflow: visible !important;
+}
+
+.no-wrap {
+    white-space: nowrap;
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+// Display helpers
+.flex-0 {
+    flex: 0 !important;
+}
+.flex-1 {
+    flex: 1 1 auto;
+    max-width: 100%;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.d-inline-flex {
+    display: inline-flex !important;
+}
+
+// TODO: Remove this in v2.0 (╯°□°）╯︵ ┻━┻
+.d-flex,
+.d-inline-flex {
+    > *:first-child {
+        flex: 1 1 auto !important;
+    }
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.d-inline {
+    display: inline !important;
+}
+
+.d-none {
+    display: none !important;
+}
+
+//spacing
+.ma-auto {
+    // NOTE: Switched to shorthand even though Vuetify does the longhand (is there a diff??)
+    // margin-bottom: auto !important;
+    // margin-left: auto !important;
+    // margin-right: auto !important;
+    // margin-top: auto !important;
+    margin: auto !important;
+}
+
+.my-auto {
+    margin-bottom: auto !important;
+    margin-top: auto !important;
+}
+
+.mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.mt-auto {
+    margin-top: auto !important;
+}
+
+.mr-auto {
+    margin-right: auto !important;
+}
+
+.mb-auto {
+    margin-bottom: auto !important;
+}
+
+.ml-auto {
+    margin-left: auto !important;
+}
+
+// @import '../../settings/variables';
+// @import '../../settings/theme';
+
+// If true, use rem in styles instead of px.
+// NOTE: Has to be here because its used in the variables and theme files.
+$values-use-rem: true !default;
+
+@function _rem-separator($list, $separator: false) {
+    @if $separator == "comma" or $separator == "space" {
+        @return append($list, null, $separator);
+    }
+
+    @if function-exists("list-separator") == true {
+        @return list-separator($list);
+    }
+}
+
+@function _rem-convert($to, $values...) {
+    $result: ();
+    $rem-baseline: variable-exists("font-size-root") and $font-size-root or 100%;
+    $separator: _rem-separator($values);
+
+    @if unit($rem-baseline) == "%" {
+        $rem-baseline: ($rem-baseline / 100%) * 16px;
+    }
+
+    @each $value in $values {
+        @if type-of($value) == "number" and unit($value) == "rem" and $to == "px" {
+            $result: append($result, $value / 1rem * $rem-baseline, $separator);
+        } @else if type-of($value) == "number" and unit($value) == "px" and $to == "rem" {
+            $result: append($result, $value / $rem-baseline * 1rem, $separator);
+        } @else if type-of($value) == "list" {
+            $value-separator: _rem-separator($value);
+            $value: _rem-convert($to, $value...);
+            $value: _rem-separator($value, $value-separator);
+            $result: append($result, $value, $separator);
+        } @else {
+            $result: append($result, $value, $separator);
+        }
+    }
+
+    @return if(length($result) == 1, nth($result, 1), $result);
+}
+
+@function rem($values...) {
+    @if not $values-use-rem {
+        @return _rem-convert(px, $values...);
+    } @else {
+        @return _rem-convert(rem, $values...);
+    }
+}
+
+$spacer: rem(1rem) !default;
+$spacer-x: $spacer !default;
+$spacer-y: $spacer !default;
+$spacers: (
+    zero: (
+        x: 0,
+        y: 0,
+    ),
+    one: (
+        x: $spacer-x * 0.25,
+        y: $spacer-y * 0.25,
+    ),
+    two: (
+        x: $spacer-x * 0.5,
+        y: $spacer-y * 0.5,
+    ),
+    three: (
+        x: $spacer-x,
+        y: $spacer-y,
+    ),
+    four: (
+        x: $spacer-x * 1.5,
+        y: $spacer-y * 1.5,
+    ),
+    five: (
+        x: $spacer-x * 3,
+        y: $spacer-y * 3,
+    ),
+) !default;
+
+@each $level, $spacer in $spacers {
+    $i: index($spacers, ($level $spacer)) - 1;
+
+    .mt-#{$i} {
+        margin-top: map-get($spacer, y) !important;
+    }
+
+    .mr-#{$i} {
+        margin-right: map-get($spacer, x) !important;
+    }
+
+    .mb-#{$i} {
+        margin-bottom: map-get($spacer, y) !important;
+    }
+
+    .ml-#{$i} {
+        margin-left: map-get($spacer, x) !important;
+    }
+
+    .mx-#{$i} {
+        margin-left: map-get($spacer, x) !important;
+        margin-right: map-get($spacer, x) !important;
+    }
+
+    .my-#{$i} {
+        margin-bottom: map-get($spacer, y) !important;
+        margin-top: map-get($spacer, y) !important;
+    }
+
+    .ma-#{$i} {
+        margin: map-get($spacer, y) map-get($spacer, x) !important;
+    }
+
+    .pt-#{$i} {
+        padding-top: map-get($spacer, y) !important;
+    }
+
+    .pr-#{$i} {
+        padding-right: map-get($spacer, x) !important;
+    }
+
+    .pb-#{$i} {
+        padding-bottom: map-get($spacer, y) !important;
+    }
+
+    .pl-#{$i} {
+        padding-left: map-get($spacer, x) !important;
+    }
+
+    .px-#{$i} {
+        padding-left: map-get($spacer, x) !important;
+        padding-right: map-get($spacer, x) !important;
+    }
+
+    .py-#{$i} {
+        padding-bottom: map-get($spacer, y) !important;
+        padding-top: map-get($spacer, y) !important;
+    }
+
+    .pa-#{$i} {
+        padding: map-get($spacer, y) map-get($spacer, x) !important;
+    }
+}
+
+.nav-stacked.d-flex > li {
+    & > a{
+        border-left: none;
+        margin: 0 10px;
+        text-align: center;
+        max-width: 200px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    &.active > a {
+        background-color: none;
+        border-bottom: 3px solid #3c8dbc;
+    }
+}

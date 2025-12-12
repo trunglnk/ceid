@@ -1,0 +1,8458 @@
+[
+  {
+    "cap_1": "A",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "NÔNG NGHIỆP, LÂM NGHIỆP VÀ THUỶ SẢN"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "01",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nông nghiệp và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "011",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Trồng cây hàng năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0111",
+    "cap_5": "01110",
+    "name": "Trồng lúa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0112",
+    "cap_5": "01120",
+    "name": "Trồng ngô và cây lương thực có hạt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0113",
+    "cap_5": "01130",
+    "name": "Trồng cây lấy củ có chất bột"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0114",
+    "cap_5": "01140",
+    "name": "Trồng cây mía"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0115",
+    "cap_5": "01150",
+    "name": "Trồng cây thuốc lá, thuốc lào"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0116",
+    "cap_5": "01160",
+    "name": "Trồng cây lấy sợi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0117",
+    "cap_5": "01170",
+    "name": "Trồng cây có hạt chứa dầu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0118",
+    "cap_5": "",
+    "name": "Trồng rau, đậu các loại và trồng hoa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01181",
+    "name": "Trồng rau các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01182",
+    "name": "Trồng đậu các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01183",
+    "name": "Trồng hoa hàng năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0119",
+    "cap_5": "",
+    "name": "Trồng cây hàng năm khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01191",
+    "name": "Trồng cây gia vị hàng năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01192",
+    "name": "Trồng cây dược liệu, hương liệu hàng năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01199",
+    "name": "Trồng cây hàng năm khác còn lại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "012",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Trồng cây lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0121",
+    "cap_5": "",
+    "name": "Trồng cây ăn quả"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01211",
+    "name": "Trồng nho"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01212",
+    "name": "Trồng cây ăn quả vùng nhiệt đới và cận nhiệt đới"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01213",
+    "name": "Trồng cam, quýt và các loại quả có múi khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01214",
+    "name": "Trồng táo, mận và các loại quả có hạt như táo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01215",
+    "name": "Trồng nhãn, vải, chôm chôm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01219",
+    "name": "Trồng cây ăn quả khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0122",
+    "cap_5": "01220",
+    "name": "Trồng cây lấy quả chứa dầu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0123",
+    "cap_5": "01230",
+    "name": "Trồng cây điều"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0124",
+    "cap_5": "01240",
+    "name": "Trồng cây hồ tiêu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0125",
+    "cap_5": "01250",
+    "name": "Trồng cây cao su"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0126",
+    "cap_5": "01260",
+    "name": "Trồng cây cà phê"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0127",
+    "cap_5": "01270",
+    "name": "Trồng cây chè"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0128",
+    "cap_5": "",
+    "name": "Trồng cây gia vị, cây dược liệu, cây hương liệu lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01281",
+    "name": "Trồng cây gia vị lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01282",
+    "name": "Trồng cây dược liệu, hương liệu lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0129",
+    "cap_5": "",
+    "name": "Trồng cây lâu năm khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01291",
+    "name": "Trồng cây cảnh lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01299",
+    "name": "Trồng cây lâu năm khác còn lại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "013",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nhân và chăm sóc cây giống nông nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0131",
+    "cap_5": "01310",
+    "name": "Nhân và chăm sóc cây giống hàng năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0132",
+    "cap_5": "01320",
+    "name": "Nhân và chăm sóc cây giống lâu năm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "014",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Chăn nuôi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0141",
+    "cap_5": "",
+    "name": "Chăn nuôi trâu, bò và sản xuất giống trâu, bò"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01411",
+    "name": "Sản xuất giống trâu, bò"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01412",
+    "name": "Chăn nuôi trâu, bò"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0142",
+    "cap_5": "",
+    "name": "Chăn nuôi ngựa, lừa, la và sản xuất giống ngựa, lừa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01421",
+    "name": "Sản xuất giống ngựa, lừa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01422",
+    "name": "Chăn nuôi ngựa, lừa, la"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0144",
+    "cap_5": "",
+    "name": "Chăn nuôi dê, cừu và sản xuất giống dê, cừu, hươu, nai"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01441",
+    "name": "Sản xuất giống dê, cừu, hươu, nai"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01442",
+    "name": "Chăn nuôi dê, cừu, hươu, nai"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0145",
+    "cap_5": "",
+    "name": "Chăn nuôi lợn và sản xuất giống lợn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01451",
+    "name": "Sản xuất giống lợn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01452",
+    "name": "Chăn nuôi lợn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0146",
+    "cap_5": "",
+    "name": "Chăn nuôi gia cầm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01461",
+    "name": "Hoạt động ấp trứng và sản xuất giống gia cầm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01462",
+    "name": "Chăn nuôi gà"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01463",
+    "name": "Chăn nuôi vịt, ngan, ngỗng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "01469",
+    "name": "Chăn nuôi gia cầm khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0149",
+    "cap_5": "01490",
+    "name": "Chăn nuôi khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "015",
+    "cap_4": "0150",
+    "cap_5": "01500",
+    "name": "Trồng trọt, chăn nuôi hỗn hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "016",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ nông nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0161",
+    "cap_5": "01610",
+    "name": "Hoạt động dịch vụ trồng trọt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0162",
+    "cap_5": "01620",
+    "name": "Hoạt động dịch vụ chăn nuôi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0163",
+    "cap_5": "01630",
+    "name": "Hoạt động dịch vụ sau thu hoạch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0164",
+    "cap_5": "01640",
+    "name": "Xử lý hạt giống để nhân giống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "017",
+    "cap_4": "0170",
+    "cap_5": "01700",
+    "name": "Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "02",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Lâm nghiệp và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "021",
+    "cap_4": "0210",
+    "cap_5": "",
+    "name": "Trồng rừng, chăm sóc rừng và ươm giống cây lâm nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "02101",
+    "name": "Trồng rừng và chăm sóc rừng cây thân gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "02102",
+    "name": "Trồng rừng và chăm sóc rừng họ tre"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "02103",
+    "name": "Trồng rừng và chăm sóc rừng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "02104",
+    "name": "Ươm giống cây lâm nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "022",
+    "cap_4": "0220",
+    "cap_5": "02200",
+    "name": "Khai thác gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "023",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác, thu nhặt lâm sản khác trừ gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0231",
+    "cap_5": "02310",
+    "name": "Khai thác lâm sản khác trừ gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0232",
+    "cap_5": "02320",
+    "name": "Thu nhặt lâm sản khác trừ gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "024",
+    "cap_4": "0240",
+    "cap_5": "02400",
+    "name": "Hoạt động dịch vụ lâm nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "03",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác, nuôi trồng thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "031",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0311",
+    "cap_5": "03110",
+    "name": "Khai thác thủy sản biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0312",
+    "cap_5": "03120",
+    "name": "Khai thác thủy sản nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "032",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nuôi trồng thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0321",
+    "cap_5": "",
+    "name": "Nuôi trồng thủy sản biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03211",
+    "name": "Nuôi cá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03212",
+    "name": "Nuôi tôm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03213",
+    "name": "Nuôi thủy sản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03214",
+    "name": "Sản xuất giống thủy sản biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0322",
+    "cap_5": "",
+    "name": "Nuôi trồng thủy sản nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03221",
+    "name": "Nuôi cá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03222",
+    "name": "Nuôi tôm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03223",
+    "name": "Nuôi thủy sản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "03224",
+    "name": "Sản xuất giống thủy sản nội địa"
+  },
+  {
+    "cap_1": "B",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "KHAI KHOÁNG"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "05",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác than cứng và than non"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "051",
+    "cap_4": "0510",
+    "cap_5": "05100",
+    "name": "Khai thác và thu gom than cứng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "052",
+    "cap_4": "0520",
+    "cap_5": "05200",
+    "name": "Khai thác và thu gom than non"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "06",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác dầu thô và khí đốt tự nhiên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "061",
+    "cap_4": "0610",
+    "cap_5": "06100",
+    "name": "Khai thác dầu thô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "062",
+    "cap_4": "0620",
+    "cap_5": "06200",
+    "name": "Khai thác khí đốt tự nhiên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "07",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác quặng kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "071",
+    "cap_4": "0710",
+    "cap_5": "07100",
+    "name": "Khai thác quặng sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "072",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai thác quặng không chứa sắt (trừ quặng kim loại quý hiếm)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0721",
+    "cap_5": "07210",
+    "name": "Khai thác quặng uranium và quặng thorium"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0722",
+    "cap_5": "",
+    "name": "Khai thác quặng kim loại khác không chứa sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "07221",
+    "name": "Khai thác quặng bôxít"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "07229",
+    "name": "Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "073",
+    "cap_4": "0730",
+    "cap_5": "07300",
+    "name": "Khai thác quặng kim loại quý hiếm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "08",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai khoáng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "081",
+    "cap_4": "0810",
+    "cap_5": "",
+    "name": "Khai thác đá, cát, sỏi, đất sét"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "08101",
+    "name": "Khai thác đá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "08102",
+    "name": "Khai thác cát, sỏi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "08103",
+    "name": "Khai thác đất sét"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "089",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Khai khoáng chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0891",
+    "cap_5": "08910",
+    "name": "Khai thác khoáng hoá chất và khoáng phân bón"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0892",
+    "cap_5": "08920",
+    "name": "Khai thác và thu gom than bùn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0893",
+    "cap_5": "08930",
+    "name": "Khai thác muối"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "0899",
+    "cap_5": "08990",
+    "name": "Khai khoáng khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "09",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ khai khoáng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "091",
+    "cap_4": "0910",
+    "cap_5": "09100",
+    "name": "Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "099",
+    "cap_4": "0990",
+    "cap_5": "09900",
+    "name": "Hoạt động dịch vụ hỗ trợ khai khoáng khác"
+  },
+  {
+    "cap_1": "C",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "CÔNG NGHIỆP CHẾ BIẾN, CHẾ TẠO"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 10,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất, chế biến thực phẩm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 101,
+    "cap_4": 1010,
+    "cap_5": "",
+    "name": "Chế biến, bảo quản thịt và các sản phẩm từ thịt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10101,
+    "name": "Giết mổ gia súc, gia cầm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10102,
+    "name": "Chế biến và bảo quản thịt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10109,
+    "name": "Chế biến và bảo quản các sản phẩm từ thịt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 102,
+    "cap_4": 1020,
+    "cap_5": "",
+    "name": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10201,
+    "name": "Chế biến và bảo quản thủy sản đông lạnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10202,
+    "name": "Chế biến và bảo quản thủy sản khô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10203,
+    "name": "Chế biến và bảo quản nước mắm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10209,
+    "name": "Chế biến và bảo quản các sản phẩm khác từ thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 103,
+    "cap_4": 1030,
+    "cap_5": "",
+    "name": "Chế biến và bảo quản rau quả"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10301,
+    "name": "Sản xuất nước ép từ rau quả"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10309,
+    "name": "Chế biến và bảo quản rau quả khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 104,
+    "cap_4": 1040,
+    "cap_5": "",
+    "name": "Sản xuất dầu, mỡ động, thực vật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10401,
+    "name": "Sản xuất dầu, mỡ động vật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10402,
+    "name": "Sản xuất dầu, bơ thực vật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 105,
+    "cap_4": 1050,
+    "cap_5": 10500,
+    "name": "Chế biến sữa và các sản phẩm từ sữa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 106,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xay xát và sản xuất bột"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1061,
+    "cap_5": "",
+    "name": "Xay xát và sản xuất bột thô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10611,
+    "name": "Xay xát"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10612,
+    "name": "Sản xuất bột thô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1062,
+    "cap_5": 10620,
+    "name": "Sản xuất tinh bột và các sản phẩm từ tinh bột"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 107,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất thực phẩm khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1071,
+    "cap_5": 10710,
+    "name": "Sản xuất các loại bánh từ bột"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1072,
+    "cap_5": 10720,
+    "name": "Sản xuất đường"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1073,
+    "cap_5": 10730,
+    "name": "Sản xuất ca cao, sôcôla và bánh kẹo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1074,
+    "cap_5": 10740,
+    "name": "Sản xuất mì ống, mỳ sợi và sản phẩm tương tự"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1075,
+    "cap_5": "",
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10751,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn từ thịt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10752,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn từ thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 10759,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1076,
+    "cap_5": 10760,
+    "name": "Sản xuất chè"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1077,
+    "cap_5": 10770,
+    "name": "Sản xuất cà phê"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1079,
+    "cap_5": 10790,
+    "name": "Sản xuất thực phẩm khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 108,
+    "cap_4": 1080,
+    "cap_5": 10800,
+    "name": "Sản xuất thức ăn gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 11,
+    "cap_3": 110,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất đồ uống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1101,
+    "cap_5": 11010,
+    "name": "Chưng, tinh cất và pha chế các loại rượu mạnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1102,
+    "cap_5": 11020,
+    "name": "Sản xuất rượu vang"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1103,
+    "cap_5": 11030,
+    "name": "Sản xuất bia và mạch nha ủ men bia"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1104,
+    "cap_5": "",
+    "name": "Sản xuất đồ uống không cồn, nước khoáng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 11041,
+    "name": "Sản xuất nước khoáng, nước tinh khiết đóng chai"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 11042,
+    "name": "Sản xuất đồ uống không cồn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 12,
+    "cap_3": 120,
+    "cap_4": 1200,
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm thuốc lá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 12001,
+    "name": "Sản xuất thuốc lá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 12009,
+    "name": "Sản xuất thuốc hút khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 13,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Dệt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 131,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sợi, vải dệt thoi và hoàn thiện sản phẩm dệt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1311,
+    "cap_5": 13110,
+    "name": "Sản xuất sợi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1312,
+    "cap_5": 13120,
+    "name": "Sản xuất vải dệt thoi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1313,
+    "cap_5": 13130,
+    "name": "Hoàn thiện sản phẩm dệt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 139,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất hàng dệt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1391,
+    "cap_5": 13910,
+    "name": "Sản xuất vải dệt kim, vải đan móc và vải không dệt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1392,
+    "cap_5": 13920,
+    "name": "Sản xuất hàng dệt sẵn (trừ trang phục)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1393,
+    "cap_5": 13930,
+    "name": "Sản xuất thảm, chăn, đệm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1394,
+    "cap_5": 13940,
+    "name": "Sản xuất các loại dây bện và lưới"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1399,
+    "cap_5": 13990,
+    "name": "Sản xuất các loại hàng dệt khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 14,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất trang phục"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 141,
+    "cap_4": 1410,
+    "cap_5": 14100,
+    "name": "May trang phục (trừ trang phục từ da lông thú)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 142,
+    "cap_4": 1420,
+    "cap_5": 14200,
+    "name": "Sản xuất sản phẩm từ da lông thú"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 143,
+    "cap_4": 1430,
+    "cap_5": 14300,
+    "name": "Sản xuất trang phục dệt kim, đan móc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 15,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất da và các sản phẩm có liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 151,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Thuộc, sơ chế da; sản xuất va li, túi xách, yên đệm; sơ chế và nhuộm da lông thú"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1511,
+    "cap_5": 15110,
+    "name": "Thuộc, sơ chế da; sơ chế và nhuộm da lông thú"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1512,
+    "cap_5": 15120,
+    "name": "Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 152,
+    "cap_4": 1520,
+    "cap_5": 15200,
+    "name": "Sản xuất giày, dép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 16,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 161,
+    "cap_4": 1610,
+    "cap_5": "",
+    "name": "Cưa, xẻ, bào gỗ và bảo quản gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 16101,
+    "name": "Cưa, xẻ và bào gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 16102,
+    "name": "Bảo quản gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 162,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1621,
+    "cap_5": 16210,
+    "name": "Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1622,
+    "cap_5": 16220,
+    "name": "Sản xuất đồ gỗ xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1623,
+    "cap_5": 16230,
+    "name": "Sản xuất bao bì bằng gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1629,
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 16291,
+    "name": "Sản xuất sản phẩm khác từ gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 16292,
+    "name": "Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 17,
+    "cap_3": 170,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất giấy và sản phẩm từ giấy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1701,
+    "cap_5": 17010,
+    "name": "Sản xuất bột giấy, giấy và bìa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1702,
+    "cap_5": "",
+    "name": "Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 17021,
+    "name": "Sản xuất bao bì bằng giấy, bìa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 17022,
+    "name": "Sản xuất giấy nhăn và bìa nhăn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1709,
+    "cap_5": 17090,
+    "name": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 18,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "In, sao chép bản ghi các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 181,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "In ấn và dịch vụ liên quan đến in"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1811,
+    "cap_5": 18110,
+    "name": "In ấn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 1812,
+    "cap_5": 18120,
+    "name": "Dịch vụ liên quan đến in"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 182,
+    "cap_4": 1820,
+    "cap_5": 18200,
+    "name": "Sao chép bản ghi các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 19,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất than cốc, sản phẩm dầu mỏ tinh chế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 191,
+    "cap_4": 1910,
+    "cap_5": 19100,
+    "name": "Sản xuất than cốc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 192,
+    "cap_4": 1920,
+    "cap_5": 19200,
+    "name": "Sản xuất sản phẩm dầu mỏ tinh chế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 20,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất hoá chất và sản phẩm hoá chất"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 201,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất hoá chất cơ bản, phân bón và hợp chất ni tơ; sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2011,
+    "cap_5": "",
+    "name": "Sản xuất hoá chất cơ bản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20111,
+    "name": "Sản xuất khí công nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20112,
+    "name": "Sản xuất chất nhuộm và chất màu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20113,
+    "name": "Sản xuất hóa chất vô cơ cơ bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20114,
+    "name": "Sản xuất hoá chất hữu cơ cơ bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20119,
+    "name": "Sản xuất hóa chất cơ bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2012,
+    "cap_5": 20120,
+    "name": "Sản xuất phân bón và hợp chất ni tơ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2013,
+    "cap_5": "",
+    "name": "Sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20131,
+    "name": "Sản xuất plastic nguyên sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20132,
+    "name": "Sản xuất cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 202,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm hoá chất khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2021,
+    "cap_5": 20210,
+    "name": "Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2022,
+    "cap_5": "",
+    "name": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20221,
+    "name": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20222,
+    "name": "Sản xuất mực in"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2023,
+    "cap_5": "",
+    "name": "Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20231,
+    "name": "Sản xuất mỹ phẩm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 20232,
+    "name": "Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2029,
+    "cap_5": 20290,
+    "name": "Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 203,
+    "cap_4": 2030,
+    "cap_5": 20300,
+    "name": "Sản xuất sợi nhân tạo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 21,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất thuốc, hoá dược và dược liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 210,
+    "cap_4": 2100,
+    "cap_5": "",
+    "name": "Sản xuất thuốc, hoá dược và dược liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 21001,
+    "name": "Sản xuất thuốc các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 21002,
+    "name": "Sản xuất hoá dược và dược liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 22,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ cao su và plastic"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 221,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ cao su"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2211,
+    "cap_5": 22110,
+    "name": "Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2219,
+    "cap_5": 22190,
+    "name": "Sản xuất sản phẩm khác từ cao su"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 222,
+    "cap_4": 2220,
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ plastic"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 22201,
+    "name": "Sản xuất bao bì từ plastic"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 22209,
+    "name": "Sản xuất sản phẩm khác từ plastic"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 23,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ khoáng phi kim loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 231,
+    "cap_4": 2310,
+    "cap_5": "",
+    "name": "Sản xuất thủy tinh và sản phẩm từ thủy tinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23101,
+    "name": "Sản xuất thủy tinh phẳng và sản phẩm từ thủy tinh phẳng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23102,
+    "name": "Sản xuất thủy tinh rỗng và sản phẩm từ thủy tinh rỗng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23103,
+    "name": "Sản xuất sợi thủy tinh và sản phẩm từ sợi thủy tinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23109,
+    "name": "Sản xuất thủy tinh khác và các sản phẩm từ thủy tinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 239,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ khoáng phi kim loại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2391,
+    "cap_5": 23910,
+    "name": "Sản xuất sản phẩm chịu lửa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2392,
+    "cap_5": 23920,
+    "name": "Sản xuất vật liệu xây dựng từ đất sét"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2393,
+    "cap_5": 23930,
+    "name": "Sản xuất sản phẩm gốm sứ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2394,
+    "cap_5": "",
+    "name": "Sản xuất xi măng, vôi và thạch cao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23941,
+    "name": "Sản xuất xi măng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23942,
+    "name": "Sản xuất vôi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 23943,
+    "name": "Sản xuất thạch cao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2395,
+    "cap_5": 23950,
+    "name": "Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2396,
+    "cap_5": 23960,
+    "name": "Cắt tạo dáng và hoàn thiện đá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2399,
+    "cap_5": 23990,
+    "name": "Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 24,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 241,
+    "cap_4": 2410,
+    "cap_5": 24100,
+    "name": "Sản xuất sắt, thép, gang"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 242,
+    "cap_4": 2420,
+    "cap_5": "",
+    "name": "Sản xuất kim loại quý và kim loại màu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 24201,
+    "name": "Sản xuất kim loại quý"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 24202,
+    "name": "Sản xuất kim loại màu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 243,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Đúc kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2431,
+    "cap_5": 24310,
+    "name": "Đúc sắt, thép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2432,
+    "cap_5": 24320,
+    "name": "Đúc kim loại màu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 25,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 251,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất các cấu kiện kim loại, thùng, bể chứa và nồi hơi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2511,
+    "cap_5": 25110,
+    "name": "Sản xuất các cấu kiện kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2512,
+    "cap_5": 25120,
+    "name": "Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2513,
+    "cap_5": 25130,
+    "name": "Sản xuất nồi hơi (trừ nồi hơi trung tâm)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 252,
+    "cap_4": 2520,
+    "cap_5": 25200,
+    "name": "Sản xuất vũ khí và đạn dược"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 259,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm khác bằng kim loại; các dịch vụ xử lý, gia công kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2591,
+    "cap_5": 25910,
+    "name": "Rèn, dập, ép và cán kim loại; luyện bột kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2592,
+    "cap_5": 25920,
+    "name": "Gia công cơ khí; xử lý và tráng phủ kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2593,
+    "cap_5": 25930,
+    "name": "Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2599,
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 25991,
+    "name": "Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 25999,
+    "name": "Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 26,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 261,
+    "cap_4": 2610,
+    "cap_5": 26100,
+    "name": "Sản xuất linh kiện điện tử"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 262,
+    "cap_4": 2620,
+    "cap_5": 26200,
+    "name": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 263,
+    "cap_4": 2630,
+    "cap_5": 26300,
+    "name": "Sản xuất thiết bị truyền thông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 264,
+    "cap_4": 2640,
+    "cap_5": 26400,
+    "name": "Sản xuất sản phẩm điện tử dân dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 265,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển; sản xuất đồng hồ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2651,
+    "cap_5": 26510,
+    "name": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2652,
+    "cap_5": 26520,
+    "name": "Sản xuất đồng hồ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 266,
+    "cap_4": 2660,
+    "cap_5": 26600,
+    "name": "Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 267,
+    "cap_4": 2670,
+    "cap_5": 26700,
+    "name": "Sản xuất thiết bị và dụng cụ quang học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 268,
+    "cap_4": 2680,
+    "cap_5": 26800,
+    "name": "Sản xuất băng, đĩa từ tính và quang học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 27,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất thiết bị điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 271,
+    "cap_4": 2710,
+    "cap_5": "",
+    "name": "Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 27101,
+    "name": "Sản xuất mô tơ, máy phát"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 27102,
+    "name": "Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 272,
+    "cap_4": 2720,
+    "cap_5": 27200,
+    "name": "Sản xuất pin và ắc quy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 273,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất dây và thiết bị dây dẫn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2731,
+    "cap_5": 27310,
+    "name": "Sản xuất dây cáp, sợi cáp quang học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2732,
+    "cap_5": 27320,
+    "name": "Sản xuất dây, cáp điện và điện tử khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2733,
+    "cap_5": 27330,
+    "name": "Sản xuất thiết bị dây dẫn điện các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 274,
+    "cap_4": 2740,
+    "cap_5": 27400,
+    "name": "Sản xuất thiết bị điện chiếu sáng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 275,
+    "cap_4": 2750,
+    "cap_5": 27500,
+    "name": "Sản xuất đồ điện dân dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 279,
+    "cap_4": 2790,
+    "cap_5": 27900,
+    "name": "Sản xuất thiết bị điện khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 28,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất máy móc, thiết bị chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 281,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất máy thông dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2811,
+    "cap_5": 28110,
+    "name": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2812,
+    "cap_5": 28120,
+    "name": "Sản xuất thiết bị sử dụng năng lượng chiết lưu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2813,
+    "cap_5": 28130,
+    "name": "Sản xuất máy bơm, máy nén, vòi và van khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2814,
+    "cap_5": 28140,
+    "name": "Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2815,
+    "cap_5": 28150,
+    "name": "Sản xuất lò nướng, lò luyện và lò nung"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2816,
+    "cap_5": 28160,
+    "name": "Sản xuất các thiết bị nâng, hạ và bốc xếp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2817,
+    "cap_5": 28170,
+    "name": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2818,
+    "cap_5": 28180,
+    "name": "Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2819,
+    "cap_5": 28190,
+    "name": "Sản xuất máy thông dụng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 282,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất máy chuyên dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2821,
+    "cap_5": 28210,
+    "name": "Sản xuất máy nông nghiệp và lâm nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2822,
+    "cap_5": 28220,
+    "name": "Sản xuất máy công cụ và máy tạo hình kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2823,
+    "cap_5": 28230,
+    "name": "Sản xuất máy luyện kim"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2824,
+    "cap_5": 28240,
+    "name": "Sản xuất máy khai thác mỏ và xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2825,
+    "cap_5": 28250,
+    "name": "Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2826,
+    "cap_5": 28260,
+    "name": "Sản xuất máy cho ngành dệt, may và da"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 2829,
+    "cap_5": "",
+    "name": "Sản xuất máy chuyên dụng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 28291,
+    "name": "Sản xuất máy sản xuất vật liệu xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 28299,
+    "name": "Sản xuất máy chuyên dụng khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 29,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 291,
+    "cap_4": 2910,
+    "cap_5": 29100,
+    "name": "Sản xuất ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 292,
+    "cap_4": 2920,
+    "cap_5": 29200,
+    "name": "Sản xuất thân xe ô tô và xe có động cơ khác, rơ moóc và bán rơ moóc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 293,
+    "cap_4": 2930,
+    "cap_5": 29300,
+    "name": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 30,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất phương tiện vận tải khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 301,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Đóng tàu và thuyền"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3011,
+    "cap_5": 30110,
+    "name": "Đóng tàu và cấu kiện nổi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3012,
+    "cap_5": 30120,
+    "name": "Đóng thuyền, xuồng thể thao và giải trí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 302,
+    "cap_4": 3020,
+    "cap_5": 30200,
+    "name": "Sản xuất đầu máy xe lửa, xe điện và toa xe"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 303,
+    "cap_4": 3030,
+    "cap_5": 30300,
+    "name": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 304,
+    "cap_4": 3040,
+    "cap_5": 30400,
+    "name": "Sản xuất xe cơ giới chiến đấu dùng trong quân đội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 309,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất phương tiện và thiết bị vận tải chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3091,
+    "cap_5": 30910,
+    "name": "Sản xuất mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3092,
+    "cap_5": 30920,
+    "name": "Sản xuất xe đạp và xe cho người khuyết tật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3099,
+    "cap_5": 30990,
+    "name": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 31,
+    "cap_3": 310,
+    "cap_4": 3100,
+    "cap_5": "",
+    "name": "Sản xuất giường, tủ, bàn, ghế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 31001,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng gỗ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 31002,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 31009,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 32,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Công nghiệp chế biến, chế tạo khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 321,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất đồ kim hoàn, đồ giả kim hoàn và các chi tiết liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3211,
+    "cap_5": 32110,
+    "name": "Sản xuất đồ kim hoàn và chi tiết liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3212,
+    "cap_5": 32120,
+    "name": "Sản xuất đồ giả kim hoàn và chi tiết liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 322,
+    "cap_4": 3220,
+    "cap_5": 32200,
+    "name": "Sản xuất nhạc cụ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 323,
+    "cap_4": 3230,
+    "cap_5": 32300,
+    "name": "Sản xuất dụng cụ thể dục, thể thao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 324,
+    "cap_4": 3240,
+    "cap_5": 32400,
+    "name": "Sản xuất đồ chơi, trò chơi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 325,
+    "cap_4": 3250,
+    "cap_5": "",
+    "name": "Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 32501,
+    "name": "Sản xuất thiết bị, dụng cụ y tế, nha khoa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 32502,
+    "name": "Sản xuất dụng cụ chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 329,
+    "cap_4": 3290,
+    "cap_5": 32900,
+    "name": "Sản xuất khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 33,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 331,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sửa chữa và bảo dưỡng máy móc, thiết bị và sản phẩm kim loại đúc sẵn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3311,
+    "cap_5": 33110,
+    "name": "Sửa chữa các sản phẩm kim loại đúc sẵn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3312,
+    "cap_5": 33120,
+    "name": "Sửa chữa máy móc, thiết bị"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3313,
+    "cap_5": 33130,
+    "name": "Sửa chữa thiết bị điện tử và quang học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3314,
+    "cap_5": 33140,
+    "name": "Sửa chữa thiết bị điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3315,
+    "cap_5": 33150,
+    "name": "Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3319,
+    "cap_5": 33190,
+    "name": "Sửa chữa thiết bị khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 332,
+    "cap_4": 3320,
+    "cap_5": 33200,
+    "name": "Lắp đặt máy móc và thiết bị công nghiệp"
+  },
+  {
+    "cap_1": "D",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "SẢN XUẤT VÀ PHÂN PHỐI ĐIỆN, KHÍ ĐỐT, NƯỚC NÓNG, HƠI NƯỚC VÀ ĐIỀU HOÀ KHÔNG KHÍ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 35,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 351,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sản xuất, truyền tải và phân phối điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3511,
+    "cap_5": "",
+    "name": "Sản xuất điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35111,
+    "name": "Thủy điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35112,
+    "name": "Nhiệt điện than"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35113,
+    "name": "Nhiệt điện khí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35114,
+    "name": "Điện hạt nhân"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35115,
+    "name": "Điện gió"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35116,
+    "name": "Điện mặt trời"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35119,
+    "name": "Điện khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3512,
+    "cap_5": "",
+    "name": "Truyền tải và phân phối điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35121,
+    "name": "Truyền tải điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35122,
+    "name": "Phân phối điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 352,
+    "cap_4": 3520,
+    "cap_5": "",
+    "name": "Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35201,
+    "name": "Sản xuất khí đốt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35202,
+    "name": "Phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 353,
+    "cap_4": 3530,
+    "cap_5": "",
+    "name": "Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35301,
+    "name": "Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 35302,
+    "name": "Sản xuất nước đá"
+  },
+  {
+    "cap_1": "E",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "CUNG CẤP NƯỚC; HOẠT ĐỘNG QUẢN LÝ VÀ XỬ LÝ RÁC THẢI, NƯỚC THẢI"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 36,
+    "cap_3": 360,
+    "cap_4": 3600,
+    "cap_5": 36000,
+    "name": "Khai thác, xử lý và cung cấp nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 37,
+    "cap_3": 370,
+    "cap_4": 3700,
+    "cap_5": "",
+    "name": "Thoát nước và xử lý nước thải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 37001,
+    "name": "Thoát nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 37002,
+    "name": "Xử lý nước thải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 38,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động thu gom, xử lý và tiêu hủy rác thải; tái chế phế liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 381,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Thu gom rác thải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3811,
+    "cap_5": 38110,
+    "name": "Thu gom rác thải không độc hại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3812,
+    "cap_5": "",
+    "name": "Thu gom rác thải độc hại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38121,
+    "name": "Thu gom rác thải y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38129,
+    "name": "Thu gom rác thải độc hại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 382,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xử lý và tiêu hủy rác thải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3821,
+    "cap_5": 38210,
+    "name": "Xử lý và tiêu hủy rác thải không độc hại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 3822,
+    "cap_5": "",
+    "name": "Xử lý và tiêu hủy rác thải độc hại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38221,
+    "name": "Xử lý và tiêu hủy rác thải y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38229,
+    "name": "Xử lý và tiêu hủy rác thải độc hại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 383,
+    "cap_4": 3830,
+    "cap_5": "",
+    "name": "Tái chế phế liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38301,
+    "name": "Tái chế phế liệu kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 38302,
+    "name": "Tái chế phế liệu phi kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 39,
+    "cap_3": 390,
+    "cap_4": 3900,
+    "cap_5": 39000,
+    "name": "Xử lý ô nhiễm và hoạt động quản lý chất thải khác"
+  },
+  {
+    "cap_1": "F",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "XÂY DỰNG"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 41,
+    "cap_3": 410,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xây dựng nhà các loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4101,
+    "cap_5": 41010,
+    "name": "Xây dựng nhà để ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4102,
+    "cap_5": 41020,
+    "name": "Xây dựng nhà không để ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 42,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xây dựng công trình kỹ thuật dân dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 421,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xây dựng công trình đường sắt và đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4211,
+    "cap_5": 42110,
+    "name": "Xây dựng công trình đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4212,
+    "cap_5": 42120,
+    "name": "Xây dựng công trình đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 422,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xây dựng công trình công ích"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4221,
+    "cap_5": 42210,
+    "name": "Xây dựng công trình điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4222,
+    "cap_5": 42220,
+    "name": "Xây dựng công trình cấp, thoát nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4223,
+    "cap_5": 42230,
+    "name": "Xây dựng công trình viễn thông, thông tin liên lạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4229,
+    "cap_5": 42290,
+    "name": "Xây dựng công trình công ích khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 429,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xây dựng công trình kỹ thuật dân dụng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4291,
+    "cap_5": 42910,
+    "name": "Xây dựng công trình thủy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4292,
+    "cap_5": 42920,
+    "name": "Xây dựng công trình khai khoáng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4293,
+    "cap_5": 42930,
+    "name": "Xây dựng công trình chế biến, chế tạo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4299,
+    "cap_5": 42990,
+    "name": "Xây dựng công trình kỹ thuật dân dụng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 43,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động xây dựng chuyên dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 431,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Phá dỡ và chuẩn bị mặt bằng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4311,
+    "cap_5": 43110,
+    "name": "Phá dỡ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4312,
+    "cap_5": 43120,
+    "name": "Chuẩn bị mặt bằng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 432,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Lắp đặt hệ thống điện, hệ thống cấp thoát nước và lắp đặt xây dựng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4321,
+    "cap_5": 43210,
+    "name": "Lắp đặt hệ thống điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4322,
+    "cap_5": "",
+    "name": "Lắp đặt hệ thống cấp, thoát nước, hệ thống sưởi và điều hoà không khí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 43221,
+    "name": "Lắp đặt hệ thống cấp, thoát nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 43222,
+    "name": "Lắp đặt hệ thống sưởi và điều hoà không khí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4329,
+    "cap_5": 43290,
+    "name": "Lắp đặt hệ thống xây dựng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 433,
+    "cap_4": 4330,
+    "cap_5": 43300,
+    "name": "Hoàn thiện công trình xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 439,
+    "cap_4": 4390,
+    "cap_5": 43900,
+    "name": "Hoạt động xây dựng chuyên dụng khác"
+  },
+  {
+    "cap_1": "G",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "BÁN BUÔN VÀ BÁN LẺ; SỬA CHỮA Ô TÔ, MÔ TÔ, XE MÁY VÀ XE CÓ ĐỘNG CƠ KHÁC"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 45,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán, sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 451,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4511,
+    "cap_5": "",
+    "name": "Bán buôn ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45111,
+    "name": "Bán buôn ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45119,
+    "name": "Bán buôn xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4512,
+    "cap_5": 45120,
+    "name": "Bán lẻ ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4513,
+    "cap_5": "",
+    "name": "Đại lý ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45131,
+    "name": "Đại lý ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45139,
+    "name": "Đại lý xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 452,
+    "cap_4": 4520,
+    "cap_5": 45200,
+    "name": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 453,
+    "cap_4": 4530,
+    "cap_5": "",
+    "name": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45301,
+    "name": "Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45302,
+    "name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45303,
+    "name": "Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 454,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán, bảo dưỡng và sửa chữa mô tô, xe máy, phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4541,
+    "cap_5": "",
+    "name": "Bán mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45411,
+    "name": "Bán buôn mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45412,
+    "name": "Bán lẻ mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45413,
+    "name": "Đại lý mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4542,
+    "cap_5": 45420,
+    "name": "Bảo dưỡng và sửa chữa mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4543,
+    "cap_5": "",
+    "name": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45431,
+    "name": "Bán buôn phụ tùng và các bộ phận phụ trợ của mô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45432,
+    "name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 45433,
+    "name": "Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 46,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 461,
+    "cap_4": 4610,
+    "cap_5": "",
+    "name": "Đại lý, môi giới, đấu giá hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46101,
+    "name": "Đại lý bán hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46102,
+    "name": "Môi giới mua bán hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46103,
+    "name": "Đấu giá hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 462,
+    "cap_4": 4620,
+    "cap_5": "",
+    "name": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46201,
+    "name": "Bán buôn thóc, ngô và các loại hạt ngũ cốc khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46202,
+    "name": "Bán buôn hoa và cây"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46203,
+    "name": "Bán buôn động vật sống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46204,
+    "name": "Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46209,
+    "name": "Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 463,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán buôn lương thực, thực phẩm, đồ uống và sản phẩm thuốc lá, thuốc lào"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4631,
+    "cap_5": 46310,
+    "name": "Bán buôn gạo, lúa mỳ, hạt ngũ cốc khác, bột mỳ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4632,
+    "cap_5": "",
+    "name": "Bán buôn thực phẩm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46321,
+    "name": "Bán buôn thịt và các sản phẩm từ thịt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46322,
+    "name": "Bán buôn thủy sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46323,
+    "name": "Bán buôn rau, quả"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46324,
+    "name": "Bán buôn cà phê"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46325,
+    "name": "Bán buôn chè"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46326,
+    "name": "Bán buôn đường, sữa và các sản phẩm sữa, bánh\nkẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46329,
+    "name": "Bán buôn thực phẩm khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4633,
+    "cap_5": "",
+    "name": "Bán buôn đồ uống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46331,
+    "name": "Bán buôn đồ uống có cồn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46332,
+    "name": "Bán buôn đồ uống không có cồn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4634,
+    "cap_5": 46340,
+    "name": "Bán buôn sản phẩm thuốc lá, thuốc lào"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 464,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán buôn đồ dùng gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4641,
+    "cap_5": "",
+    "name": "Bán buôn vải, hàng may mặc, giày dép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46411,
+    "name": "Bán buôn vải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46412,
+    "name": "Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46413,
+    "name": "Bán buôn hàng may mặc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46414,
+    "name": "Bán buôn giày dép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4649,
+    "cap_5": "",
+    "name": "Bán buôn đồ dùng khác cho gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46491,
+    "name": "Bán buôn vali, cặp, túi, ví, hàng da và giả da khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46492,
+    "name": "Bán buôn dược phẩm và dụng cụ y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46493,
+    "name": "Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46494,
+    "name": "Bán buôn hàng gốm, sứ, thủy tinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46495,
+    "name": "Bán buôn đồ điện gia dụng, đèn và bộ đèn điện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46496,
+    "name": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46497,
+    "name": "Bán buôn sách, báo, tạp chí, văn phòng phẩm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46498,
+    "name": "Bán buôn dụng cụ thể dục, thể thao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46499,
+    "name": "Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 465,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4651,
+    "cap_5": 46510,
+    "name": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4652,
+    "cap_5": 46520,
+    "name": "Bán buôn thiết bị và linh kiện điện tử, viễn thông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4653,
+    "cap_5": 46530,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4659,
+    "cap_5": "",
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46591,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46592,
+    "name": "Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46593,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46594,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46595,
+    "name": "Bán buôn máy móc, thiết bị y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46599,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 466,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán buôn chuyên doanh khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4661,
+    "cap_5": "",
+    "name": "Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46611,
+    "name": "Bán buôn than đá và nhiên liệu rắn khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46612,
+    "name": "Bán buôn dầu thô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46613,
+    "name": "Bán buôn xăng dầu và các sản phẩm liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46614,
+    "name": "Bán buôn khí đốt và các sản phẩm liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4662,
+    "cap_5": "",
+    "name": "Bán buôn kim loại và quặng kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46621,
+    "name": "Bán buôn quặng kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46622,
+    "name": "Bán buôn sắt, thép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46623,
+    "name": "Bán buôn kim loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46624,
+    "name": "Bán buôn vàng, bạc và kim loại quý khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4663,
+    "cap_5": "",
+    "name": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46631,
+    "name": "Bán buôn tre, nứa, gỗ cây và gỗ chế biến"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46632,
+    "name": "Bán buôn xi măng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46633,
+    "name": "Bán buôn gạch xây, ngói, đá, cát, sỏi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46634,
+    "name": "Bán buôn kính xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46635,
+    "name": "Bán buôn sơn, vécni"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46636,
+    "name": "Bán buôn gạch ốp lát và thiết bị vệ sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46637,
+    "name": "Bán buôn đồ ngũ kim"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46639,
+    "name": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4669,
+    "cap_5": "",
+    "name": "Bán buôn chuyên doanh khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46691,
+    "name": "Bán buôn phân bón, thuốc trừ sâu và hóa chất khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46692,
+    "name": "Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46693,
+    "name": "Bán buôn chất dẻo dạng nguyên sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46694,
+    "name": "Bán buôn cao su"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46695,
+    "name": "Bán buôn tơ, xơ, sợi dệt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46696,
+    "name": "Bán buôn phụ liệu may mặc và giày dép"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46697,
+    "name": "Bán buôn phế liệu, phế thải kim loại, phi kim loại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 46699,
+    "name": "Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 469,
+    "cap_4": 4690,
+    "cap_5": 46900,
+    "name": "Bán buôn tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 47,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 471,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4711,
+    "cap_5": "",
+    "name": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47111,
+    "name": "Bán lẻ trong siêu thị (Supermarket)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47112,
+    "name": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47119,
+    "name": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4719,
+    "cap_5": "",
+    "name": "Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47191,
+    "name": "Bán lẻ trong siêu thị (Supermarket)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47192,
+    "name": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47199,
+    "name": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 472,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ lương thực, thực phẩm, đồ uống hoặc thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4721,
+    "cap_5": 47210,
+    "name": "Bán lẻ lương thực trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4722,
+    "cap_5": "",
+    "name": "Bán lẻ thực phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47221,
+    "name": "Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47222,
+    "name": "Bán lẻ thủy sản trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47223,
+    "name": "Bán lẻ rau, quả trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47224,
+    "name": "Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngữ cốc, bột, tinh bột trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47229,
+    "name": "Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4723,
+    "cap_5": 47230,
+    "name": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4724,
+    "cap_5": 47240,
+    "name": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 473,
+    "cap_4": 4730,
+    "cap_5": 47300,
+    "name": "Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 474,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ thiết bị công nghệ thông tin liên lạc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4741,
+    "cap_5": "",
+    "name": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47411,
+    "name": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47412,
+    "name": "Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4742,
+    "cap_5": 47420,
+    "name": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 475,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ thiết bị gia đình khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4751,
+    "cap_5": "",
+    "name": "Bán lẻ vải, len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47511,
+    "name": "Bán lẻ vải trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47519,
+    "name": "Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4752,
+    "cap_5": "",
+    "name": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47521,
+    "name": "Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47522,
+    "name": "Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47523,
+    "name": "Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47524,
+    "name": "Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi, sắt thép và vật liệu xây dựng khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47525,
+    "name": "Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47529,
+    "name": "Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4753,
+    "cap_5": 47530,
+    "name": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4759,
+    "cap_5": "",
+    "name": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47591,
+    "name": "Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47592,
+    "name": "Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47593,
+    "name": "Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47594,
+    "name": "Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47599,
+    "name": "Bán lẻ đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 476,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ hàng văn hóa, giải trí trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4761,
+    "cap_5": 47610,
+    "name": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4762,
+    "cap_5": 47620,
+    "name": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4763,
+    "cap_5": 47630,
+    "name": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4764,
+    "cap_5": 47640,
+    "name": "Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 477,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ hàng hóa khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4771,
+    "cap_5": "",
+    "name": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47711,
+    "name": "Bán lẻ hàng may mặc trong các cửa hàng chuyên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47712,
+    "name": "Bán lẻ giày dép trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47713,
+    "name": "Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4772,
+    "cap_5": "",
+    "name": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47721,
+    "name": "Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47722,
+    "name": "Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47723,
+    "name": "Bán thuốc đông y, bán thuốc nam trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4773,
+    "cap_5": "",
+    "name": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47731,
+    "name": "Bán lẻ hoa, cây cảnh, cá cảnh, chim cảnh, vật nuôi cảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47732,
+    "name": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47733,
+    "name": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47734,
+    "name": "Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47735,
+    "name": "Bán lẻ dầu hoả, gas, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47736,
+    "name": "Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47737,
+    "name": "Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47738,
+    "name": "Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47739,
+    "name": "Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4774,
+    "cap_5": "",
+    "name": "Bán lẻ hàng hóa đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47741,
+    "name": "Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47749,
+    "name": "Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 478,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ lưu động hoặc bán tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4781,
+    "cap_5": "",
+    "name": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47811,
+    "name": "Bán lẻ lương thực lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47812,
+    "name": "Bán lẻ thực phẩm khô, thực phẩm công nghiệp, đường sữa bánh kẹo lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47813,
+    "name": "Bán lẻ đồ uống lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47814,
+    "name": "Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47815,
+    "name": "Bán lẻ thịt gia súc, gia cầm tươi sống, đông lạnh lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47816,
+    "name": "Bán lẻ thủy sản tươi sống, đông lạnh lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47817,
+    "name": "Bán lẻ rau quả lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47818,
+    "name": "Bán lẻ thực phẩm chín lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47819,
+    "name": "Bán lẻ thực phẩm loại khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4782,
+    "cap_5": "",
+    "name": "Bán lẻ hàng dệt, may sẵn, giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47821,
+    "name": "Bán lẻ hàng dệt lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47822,
+    "name": "Bán lẻ hàng may mặc lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47823,
+    "name": "Bán lẻ giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4783,
+    "cap_5": 47830,
+    "name": "Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4784,
+    "cap_5": "",
+    "name": "Bán lẻ thiết bị gia đình khác lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47841,
+    "name": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47842,
+    "name": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47843,
+    "name": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu lưu động hoặc\ntại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4785,
+    "cap_5": 47850,
+    "name": "Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4789,
+    "cap_5": "",
+    "name": "Bán lẻ hàng hóa khác lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47891,
+    "name": "Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47892,
+    "name": "Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47893,
+    "name": "Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47894,
+    "name": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47895,
+    "name": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47896,
+    "name": "Bán lẻ đồng hồ, kính mắt lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47897,
+    "name": "Bán lẻ xe đạp và phụ tùng lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47898,
+    "name": "Bán lẻ hàng hóa đã qua sử dụng lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 47899,
+    "name": "Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 479,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bán lẻ hình thức khác (trừ bán lẻ tại cửa hàng, lưu động hoặc tại chợ)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4791,
+    "cap_5": 47910,
+    "name": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4799,
+    "cap_5": 47990,
+    "name": "Bán lẻ hình thức khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "H",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "VẬN TẢI KHO BÃI"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 49,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải đường sắt, đường bộ và vận tải đường ống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 491,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4911,
+    "cap_5": 49110,
+    "name": "Vận tải hành khách đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4912,
+    "cap_5": 49120,
+    "name": "Vận tải hàng hóa đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 492,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải hành khách bằng xe buýt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4921,
+    "cap_5": 49210,
+    "name": "Vận tải hành khách bằng xe buýt trong nội thành"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4922,
+    "cap_5": 49220,
+    "name": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4929,
+    "cap_5": 49290,
+    "name": "Vận tải hành khách bằng xe buýt loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 493,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải đường bộ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4931,
+    "cap_5": "",
+    "name": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49311,
+    "name": "Vận tải hành khách bằng hệ thống đường sắt ngầm hoặc đường sắt trên cao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49312,
+    "name": "Vận tải hành khách bằng taxi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49313,
+    "name": "Vận tải hành khách bàng mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49319,
+    "name": "Vận tải hành khách đường bộ loại khác trong nội thành, ngoại thành (trừ xe buýt)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4932,
+    "cap_5": "",
+    "name": "Vận tải hành khách đường bộ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49321,
+    "name": "Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49329,
+    "name": "Vận tải hành khách đường bộ khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 4933,
+    "cap_5": "",
+    "name": "Vận tải hàng hóa bằng đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49331,
+    "name": "Vận tải hàng hóa bằng ô tô chuyên dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49332,
+    "name": "Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49333,
+    "name": "Vận tải hàng hóa bằng xe có động cơ loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49334,
+    "name": "Vận tải hàng hóa bằng xe thô sơ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 49339,
+    "name": "Vận tải hàng hóa bằng phương tiện đường bộ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 494,
+    "cap_4": 4940,
+    "cap_5": 49400,
+    "name": "Vận tải đường ống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 50,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải đường thủy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 501,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải ven biển và viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5011,
+    "cap_5": "",
+    "name": "Vận tải hành khách ven biển và viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50111,
+    "name": "Vận tải hành khách ven biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50112,
+    "name": "Vận tải hành khách viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5012,
+    "cap_5": "",
+    "name": "Vận tải hàng hóa ven biển và viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50121,
+    "name": "Vận tải hàng hóa ven biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50122,
+    "name": "Vận tải hàng hóa viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 502,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải đường thủy nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5021,
+    "cap_5": "",
+    "name": "Vận tải hành khách đường thủy nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50211,
+    "name": "Vận tải hành khách đường thủy nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50212,
+    "name": "Vận tải hành khách đường thủy nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5022,
+    "cap_5": "",
+    "name": "Vận tải hàng hóa đường thủy nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50221,
+    "name": "Vận tải hàng hóa đường thủy nội địa bằng phương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 50222,
+    "name": "Vận tải hàng hóa đường thủy nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 51,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Vận tải hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 511,
+    "cap_4": 5110,
+    "cap_5": "",
+    "name": "Vận tải hành khách hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 51101,
+    "name": "Vận tải hành khách hàng không theo tuyến và lịch trình cố định"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 51109,
+    "name": "Vận tải hành khách hàng không loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 512,
+    "cap_4": 5120,
+    "cap_5": "",
+    "name": "Vận tải hàng hóa hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 51201,
+    "name": "Vận tải hàng hóa hàng không theo tuyến và lịch trình cố định"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 51209,
+    "name": "Vận tải hàng hóa hàng không loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 52,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Kho bãi và các hoạt động hỗ trợ cho vận tải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 521,
+    "cap_4": 5210,
+    "cap_5": "",
+    "name": "Kho bãi và lưu giữ hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52101,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho ngoại quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52102,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52109,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 522,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ cho vận tải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5221,
+    "cap_5": 52210,
+    "name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5222,
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52221,
+    "name": "Hoạt động điều hành cảng biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52222,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải ven biển và viễn dương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52223,
+    "name": "Hoạt động điều hành cảng đường thủy nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52224,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải đường thủy nội địa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5223,
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52231,
+    "name": "Dịch vụ điều hành bay"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52232,
+    "name": "Dịch vụ điều hành hoạt động cảng hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52239,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5224,
+    "cap_5": "",
+    "name": "Bốc xếp hàng hóa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52241,
+    "name": "Bốc xếp hàng hóa ga đường sắt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52242,
+    "name": "Bốc xếp hàng hóa đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52243,
+    "name": "Bốc xếp hàng hóa cảng biển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52244,
+    "name": "Bốc xếp hàng hóa cảng sông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52245,
+    "name": "Bốc xếp hàng hóa cảng hàng không"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52249,
+    "name": "Bốc xếp hàng hóa loại khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5225,
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52251,
+    "name": "Hoạt động điều hành bến xe"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52252,
+    "name": "Hoạt động quản lý, điều hành đường cao tốc, cầu, hầm đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52253,
+    "name": "Hoạt động quản lý bãi đỗ, trông giữ phương tiện đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52259,
+    "name": "Hoạt động dịch vụ khác hỗ trợ liên quan đến vận tải đường bộ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5229,
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52291,
+    "name": "Dịch vụ đại lý, giao nhận vận chuyển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52292,
+    "name": "Logistics"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 52299,
+    "name": "Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 53,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bưu chính và chuyển phát"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 531,
+    "cap_4": 5310,
+    "cap_5": 53100,
+    "name": "Bưu chính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 532,
+    "cap_4": 5320,
+    "cap_5": 53200,
+    "name": "Chuyển phát"
+  },
+  {
+    "cap_1": "I",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "DỊCH VỤ LƯU TRÚ VÀ ĂN UỐNG"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 55,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Dịch vụ lưu trú"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 551,
+    "cap_4": 5510,
+    "cap_5": "",
+    "name": "Dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55101,
+    "name": "Khách sạn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55102,
+    "name": "Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55103,
+    "name": "Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55104,
+    "name": "Nhà trọ, phòng trọ và các cơ sở lưu trú ngắn ngày"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 559,
+    "cap_4": 5590,
+    "cap_5": "",
+    "name": "Cơ sở lưu trú khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55901,
+    "name": "Ký túc xá học sinh, sinh viên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55902,
+    "name": "Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 55909,
+    "name": "Cơ sở lưu trú khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 56,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Dịch vụ ăn uống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 561,
+    "cap_4": 5610,
+    "cap_5": "",
+    "name": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56101,
+    "name": "Nhà hàng, quán ăn, hàng ăn uống (trừ cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56102,
+    "name": "Cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56109,
+    "name": "Dịch vụ ăn uống phục vụ lưu động khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 562,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên và dịch vụ ăn uống khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5621,
+    "cap_5": 56210,
+    "name": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5629,
+    "cap_5": 56290,
+    "name": "Dịch vụ ăn uống khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 563,
+    "cap_4": 5630,
+    "cap_5": "",
+    "name": "Dịch vụ phục vụ đồ uống"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56301,
+    "name": "Quán rượu, bia, quầy bar"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56302,
+    "name": "Quán cà phê, giải khát"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 56309,
+    "name": "Dịch vụ phục vụ đồ uống khác"
+  },
+  {
+    "cap_1": "J",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "THÔNG TIN VÀ TRUYỀN THÔNG"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 58,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động xuất bản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 581,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xuất bản sách, ấn phẩm định kỳ và các hoạt động xuất bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5811,
+    "cap_5": "",
+    "name": "Xuất bản sách"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58111,
+    "name": "Xuất bản sách trực tuyến"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58112,
+    "name": "Xuất bản sách khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5812,
+    "cap_5": "",
+    "name": "Xuất bản các danh mục chỉ dẫn và địa chỉ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58121,
+    "name": "Xuất bản các danh mục chỉ dẫn và địa chỉ trực tuyến"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58122,
+    "name": "Xuất bản các danh mục chỉ dẫn và địa chỉ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5813,
+    "cap_5": "",
+    "name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58131,
+    "name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ trực tuyến"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58132,
+    "name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5819,
+    "cap_5": "",
+    "name": "Hoạt động xuất bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58191,
+    "name": "Hoạt động xuất bản trực tuyến khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 58192,
+    "name": "Hoạt động xuất bản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 582,
+    "cap_4": 5820,
+    "cap_5": 58200,
+    "name": "Xuất bản phần mềm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 59,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động điện ảnh, sản xuất chương trình truyền hình, ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 591,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động điện ảnh và sản xuất chương trình truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5911,
+    "cap_5": "",
+    "name": "Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 59111,
+    "name": "Hoạt động sản xuất phim điện ảnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 59112,
+    "name": "Hoạt động sản xuất phim video"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 59113,
+    "name": "Hoạt động sản xuất chương trình truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5912,
+    "cap_5": 59120,
+    "name": "Hoạt động hậu kỳ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5913,
+    "cap_5": 59130,
+    "name": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 5914,
+    "cap_5": "",
+    "name": "Hoạt động chiếu phim"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 59141,
+    "name": "Hoạt động chiếu phim cố định"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 59142,
+    "name": "Hoạt động chiếu phim lưu động"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 592,
+    "cap_4": 5920,
+    "cap_5": 59200,
+    "name": "Hoạt động ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 60,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động phát thanh, truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 601,
+    "cap_4": 6010,
+    "cap_5": 60100,
+    "name": "Hoạt động phát thanh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 602,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động truyền hình và cung cấp chương trình thuê bao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6021,
+    "cap_5": 60210,
+    "name": "Hoạt động truyền hình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6022,
+    "cap_5": 60220,
+    "name": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 61,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Viễn thông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 611,
+    "cap_4": 6110,
+    "cap_5": "",
+    "name": "Hoạt động viễn thông có dây"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61101,
+    "name": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông có dây"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61102,
+    "name": "Hoạt động cung cấp dịch vụ viễn thông có dây sử"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "dụng quyền truy cập hạ tầng viễn thông của đơn vị\nkhác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 612,
+    "cap_4": 6120,
+    "cap_5": "",
+    "name": "Hoạt động viễn thông không dây"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61201,
+    "name": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông không dây"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61202,
+    "name": "Hoạt động cung cấp dịch vụ viễn thông không dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 613,
+    "cap_4": 6130,
+    "cap_5": 61300,
+    "name": "Hoạt động viễn thông vệ tinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 619,
+    "cap_4": 6190,
+    "cap_5": "",
+    "name": "Hoạt động viễn thông khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61901,
+    "name": "Hoạt động của các điểm truy cập internet"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 61909,
+    "name": "Hoạt động viễn thông khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 62,
+    "cap_3": 620,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Lập trình máy vi tính, dịch vụ tư vấn và các hoạt động khác liên quan đến máy vi tính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6201,
+    "cap_5": 62010,
+    "name": "Lập trình máy vi tính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6202,
+    "cap_5": 62020,
+    "name": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6209,
+    "cap_5": 62090,
+    "name": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 63,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ thông tin"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 631,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan; cổng thông tin"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6311,
+    "cap_5": 63110,
+    "name": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6312,
+    "cap_5": 63120,
+    "name": "Cổng thông tin"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 639,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Dịch vụ thông tin khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6391,
+    "cap_5": 63910,
+    "name": "Hoạt động thông tấn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6399,
+    "cap_5": 63990,
+    "name": "Dịch vụ thông tin khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "K",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG TÀI CHÍNH, NGÂN HÀNG VÀ BẢO HIỂM"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 64,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 641,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động trung gian tiền tệ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6411,
+    "cap_5": 64110,
+    "name": "Hoạt động ngân hàng trung ương"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6419,
+    "cap_5": 64190,
+    "name": "Hoạt động trung gian tiền tệ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 642,
+    "cap_4": 6420,
+    "cap_5": 64200,
+    "name": "Hoạt động công ty nắm giữ tài sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 643,
+    "cap_4": 6430,
+    "cap_5": 64300,
+    "name": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 649,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ tài chính khác (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6491,
+    "cap_5": 64910,
+    "name": "Hoạt động cho thuê tài chính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6492,
+    "cap_5": 64920,
+    "name": "Hoạt động cấp tín dụng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6499,
+    "cap_5": 64990,
+    "name": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 65,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bảo hiểm, tái bảo hiểm và bảo hiểm xã hội (trừ bảo đảm xã hội bắt buộc)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 651,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Bảo hiểm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6511,
+    "cap_5": 65110,
+    "name": "Bảo hiểm nhân thọ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6512,
+    "cap_5": 65120,
+    "name": "Bảo hiểm phi nhân thọ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6513,
+    "cap_5": "",
+    "name": "Bảo hiểm sức khỏe"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 65131,
+    "name": "Bảo hiểm y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 65139,
+    "name": "Bảo hiểm sức khỏe khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 652,
+    "cap_4": 6520,
+    "cap_5": 65200,
+    "name": "Tái bảo hiểm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 653,
+    "cap_4": 6530,
+    "cap_5": 65300,
+    "name": "Bảo hiểm xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 66,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động tài chính khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 661,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động hỗ trợ dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6611,
+    "cap_5": 66110,
+    "name": "Quản lý thị trường tài chính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6612,
+    "cap_5": 66120,
+    "name": "Môi giới hợp đồng hàng hóa và chứng khoán"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6619,
+    "cap_5": 66190,
+    "name": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 662,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động hỗ trợ bảo hiểm và bảo hiểm xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6621,
+    "cap_5": 66210,
+    "name": "Đánh giá rủi ro và thiệt hại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6622,
+    "cap_5": 66220,
+    "name": "Hoạt động của đại lý và môi giới bảo hiểm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 6629,
+    "cap_5": 66290,
+    "name": "Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 663,
+    "cap_4": 6630,
+    "cap_5": 66300,
+    "name": "Hoạt động quản lý quỹ"
+  },
+  {
+    "cap_1": "L",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG KINH DOANH BẤT ĐỘNG SẢN"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 68,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động kinh doanh bất động sản"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 681,
+    "cap_4": 6810,
+    "cap_5": "",
+    "name": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68101,
+    "name": "Mua, bán nhà ở và quyền sử dụng đất ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68102,
+    "name": "Mua, bán nhà và quyền sử dụng đất không để ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68103,
+    "name": "Cho thuê, điều hành, quản lý nhà và đất ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68104,
+    "name": "Cho thuê, điều hành, quản lý nhà và đất không để ở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68109,
+    "name": "Kinh doanh bất động sản khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 682,
+    "cap_4": 6820,
+    "cap_5": "",
+    "name": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68201,
+    "name": "Tư vấn, môi giới bất động sản, quyền sử dụng đất"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 68202,
+    "name": "Đấu giá bất động sản, quyền sử dụng đất"
+  },
+  {
+    "cap_1": "M",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG CHUYÊN MÔN, KHOA HỌC VÀ CÔNG NGHỆ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 69,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động pháp luật, kế toán và kiểm toán"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 691,
+    "cap_4": 6910,
+    "cap_5": "",
+    "name": "Hoạt động pháp luật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 69101,
+    "name": "Hoạt động đại diện, tư vấn pháp luật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 69102,
+    "name": "Hướng dẫn chung và tư vấn, chuẩn bị các tài liệu pháp lý"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 69109,
+    "name": "Hoạt động pháp luật khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 692,
+    "cap_4": 6920,
+    "cap_5": 69200,
+    "name": "Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 70,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của trụ sở văn phòng; hoạt động tư vấn quản lý"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 701,
+    "cap_4": 7010,
+    "cap_5": 70100,
+    "name": "Hoạt động của trụ sở văn phòng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 702,
+    "cap_4": 7020,
+    "cap_5": 70200,
+    "name": "Hoạt động tư vấn quản lý"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 71,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động kiến trúc; kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 711,
+    "cap_4": 7110,
+    "cap_5": "",
+    "name": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 71101,
+    "name": "Hoạt động kiến trúc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 71102,
+    "name": "Hoạt động đo đạc và bản đồ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 71103,
+    "name": "Hoạt động thăm dò địa chất, nguồn nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 71109,
+    "name": "Hoạt động tư vấn kỹ thuật có liên quan khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 712,
+    "cap_4": 7120,
+    "cap_5": 71200,
+    "name": "Kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 72,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nghiên cứu khoa học và phát triển công nghệ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 721,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên và kỹ thuật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7211,
+    "cap_5": 72110,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7212,
+    "cap_5": 72120,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7213,
+    "cap_5": 72130,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7214,
+    "cap_5": 72140,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 722,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội và nhân văn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7221,
+    "cap_5": 72210,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7222,
+    "cap_5": 72220,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 73,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Quảng cáo và nghiên cứu thị trường"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 731,
+    "cap_4": 7310,
+    "cap_5": 73100,
+    "name": "Quảng cáo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 732,
+    "cap_4": 7320,
+    "cap_5": 73200,
+    "name": "Nghiên cứu thị trường và thăm dò dư luận"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 74,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động chuyên môn, khoa học và công nghệ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 741,
+    "cap_4": 7410,
+    "cap_5": 74100,
+    "name": "Hoạt động thiết kế chuyên dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 742,
+    "cap_4": 7420,
+    "cap_5": 74200,
+    "name": "Hoạt động nhiếp ảnh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 749,
+    "cap_4": 7490,
+    "cap_5": "",
+    "name": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 74901,
+    "name": "Hoạt động khí tượng thủy văn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 74909,
+    "name": "Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 75,
+    "cap_3": 750,
+    "cap_4": 7500,
+    "cap_5": 75000,
+    "name": "Hoạt động thú y"
+  },
+  {
+    "cap_1": "N",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG HÀNH CHÍNH VÀ DỊCH VỤ HỖ TRỢ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 77,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Cho thuê máy móc, thiết bị (không kèm người điều khiển); cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 771,
+    "cap_4": 7710,
+    "cap_5": "",
+    "name": "Cho thuê xe có động cơ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77101,
+    "name": "Cho thuê ôtô"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77109,
+    "name": "Cho thuê xe có động cơ khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 772,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Cho thuê đồ dùng cá nhân và gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7721,
+    "cap_5": 77210,
+    "name": "Cho thuê thiết bị thể thao, vui chơi giải trí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7722,
+    "cap_5": 77220,
+    "name": "Cho thuê băng, đĩa video"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7729,
+    "cap_5": 77290,
+    "name": "Cho thuê đồ dùng cá nhân và gia đình khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 773,
+    "cap_4": 7730,
+    "cap_5": "",
+    "name": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77301,
+    "name": "Cho thuê máy móc, thiết bị nông, lâm nghiệp không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77302,
+    "name": "Cho thuê máy móc, thiết bị xây dựng không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77303,
+    "name": "Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính) không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77304,
+    "name": "Cho thuê máy bay, phương tiện bay không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77305,
+    "name": "Cho thuê tàu, thuyền và kết cấu nổi không kèm người điều khiển"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 77309,
+    "name": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác, không kèm người điều khiển chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 774,
+    "cap_4": 7740,
+    "cap_5": 77400,
+    "name": "Cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 78,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ lao động và việc làm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 781,
+    "cap_4": 7810,
+    "cap_5": 78100,
+    "name": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 782,
+    "cap_4": 7820,
+    "cap_5": 78200,
+    "name": "Cung ứng lao động tạm thời"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 783,
+    "cap_4": 7830,
+    "cap_5": "",
+    "name": "Cung ứng và quản lý nguồn lao động"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 78301,
+    "name": "Cung ứng và quản lý nguồn lao động trong nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 78302,
+    "name": "Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 79,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch và các dịch vụ hỗ trợ, liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 791,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7911,
+    "cap_5": 79110,
+    "name": "Đại lý du lịch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 7912,
+    "cap_5": 79120,
+    "name": "Điều hành tua du lịch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 799,
+    "cap_4": 7990,
+    "cap_5": 79900,
+    "name": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 80,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động điều tra bảo đảm an toàn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 801,
+    "cap_4": 8010,
+    "cap_5": 80100,
+    "name": "Hoạt động bảo vệ tư nhân"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 802,
+    "cap_4": 8020,
+    "cap_5": 80200,
+    "name": "Dịch vụ hệ thống bảo đảm an toàn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 803,
+    "cap_4": 8030,
+    "cap_5": 80300,
+    "name": "Dịch vụ điều tra"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 81,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 811,
+    "cap_4": 8110,
+    "cap_5": 81100,
+    "name": "Dịch vụ hỗ trợ tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 812,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Dịch vụ vệ sinh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8121,
+    "cap_5": 81210,
+    "name": "Vệ sinh chung nhà cửa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8129,
+    "cap_5": 81290,
+    "name": "Vệ sinh công nghiệp và các công trình chuyên biệt"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 813,
+    "cap_4": 8130,
+    "cap_5": 81300,
+    "name": "Dịch vụ chăm sóc và duy trì cảnh quan"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 82,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 821,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động hành chính và hỗ trợ văn phòng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8211,
+    "cap_5": 82110,
+    "name": "Dịch vụ hành chính văn phòng tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8219,
+    "cap_5": "",
+    "name": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 82191,
+    "name": "Photo, chuẩn bị tài liệu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 82199,
+    "name": "Hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 822,
+    "cap_4": 8220,
+    "cap_5": 82200,
+    "name": "Hoạt động dịch vụ liên quan đến các cuộc gọi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 823,
+    "cap_4": 8230,
+    "cap_5": 82300,
+    "name": "Tổ chức giới thiệu và xúc tiến thương mại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 829,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ hỗ trợ kinh doanh khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8291,
+    "cap_5": 82910,
+    "name": "Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8292,
+    "cap_5": 82920,
+    "name": "Dịch vụ đóng gói"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8299,
+    "cap_5": 82990,
+    "name": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "O",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG CỦA ĐẢNG CỘNG SẢN, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, QUẢN LÝ NHÀ NƯỚC, AN NINH QUỐC PHÒNG; BẢO ĐẢM XÃ HỘI BẮT BUỘC"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 84,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng, đối ngoại và bảo đảm xã hội bắt buộc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 841,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước và quản lý chính sách\nkinh tế, xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8411,
+    "cap_5": "",
+    "name": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 84111,
+    "name": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 84112,
+    "name": "Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8412,
+    "cap_5": 84120,
+    "name": "Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hóa và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8413,
+    "cap_5": 84130,
+    "name": "Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 842,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động phục vụ chung cho toàn đất nước"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8421,
+    "cap_5": 84210,
+    "name": "Hoạt động đối ngoại"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8422,
+    "cap_5": 84220,
+    "name": "Hoạt động quốc phòng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8423,
+    "cap_5": 84230,
+    "name": "Hoạt động an ninh, trật tự an toàn xã hội"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 843,
+    "cap_4": 8430,
+    "cap_5": 84300,
+    "name": "Hoạt động bảo đảm xã hội bắt buộc"
+  },
+  {
+    "cap_1": "P",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "GIÁO DỤC VÀ ĐÀO TẠO"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 85,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục và đào tạo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 851,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục mầm non"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8511,
+    "cap_5": 85110,
+    "name": "Giáo dục nhà trẻ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8512,
+    "cap_5": 85120,
+    "name": "Giáo dục mẫu giáo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 852,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục phổ thông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8521,
+    "cap_5": 85210,
+    "name": "Giáo dục tiểu học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8522,
+    "cap_5": 85220,
+    "name": "Giáo dục trung học cơ sở"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8523,
+    "cap_5": 85230,
+    "name": "Giáo dục trung học phổ thông"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 853,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục nghề nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8531,
+    "cap_5": 85310,
+    "name": "Đào tạo sơ cấp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8532,
+    "cap_5": 85320,
+    "name": "Đào tạo trung cấp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8533,
+    "cap_5": 85330,
+    "name": "Đào tạo cao đẳng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 854,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục đại học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8541,
+    "cap_5": 85410,
+    "name": "Đào tạo đại học"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8542,
+    "cap_5": 85420,
+    "name": "Đào tạo thạc sỹ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8543,
+    "cap_5": 85430,
+    "name": "Đào tạo tiến sỹ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 855,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Giáo dục khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8551,
+    "cap_5": 85510,
+    "name": "Giáo dục thể thao và giải trí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8552,
+    "cap_5": 85520,
+    "name": "Giáo dục văn hóa nghệ thuật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8559,
+    "cap_5": 85590,
+    "name": "Giáo dục khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 856,
+    "cap_4": 8560,
+    "cap_5": 85600,
+    "name": "Dịch vụ hỗ trợ giáo dục"
+  },
+  {
+    "cap_1": "Q",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Y TẾ VÀ HOẠT ĐỘNG TRỢ GIÚP XÃ HỘI"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 86,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 861,
+    "cap_4": 8610,
+    "cap_5": "",
+    "name": "Hoạt động của các bệnh viện, trạm y tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 86101,
+    "name": "Hoạt động của các bệnh viện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 86102,
+    "name": "Hoạt động của các trạm y tế và trạm y tế bộ/ngành"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 862,
+    "cap_4": 8620,
+    "cap_5": "",
+    "name": "Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 86201,
+    "name": "Hoạt động của các phòng khám đa khoa, chuyên khoa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 86202,
+    "name": "Hoạt động của các phòng khám nha khoa"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 869,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động y tế khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8691,
+    "cap_5": 86910,
+    "name": "Hoạt động y tế dự phòng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8692,
+    "cap_5": 86920,
+    "name": "Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 8699,
+    "cap_5": 86990,
+    "name": "Hoạt động y tế khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 87,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động chăm sóc, điều dưỡng tập trung"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 871,
+    "cap_4": 8710,
+    "cap_5": "",
+    "name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87101,
+    "name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87109,
+    "name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 872,
+    "cap_4": 8720,
+    "cap_5": "",
+    "name": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần và người nghiện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87201,
+    "name": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87202,
+    "name": "Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 873,
+    "cap_4": 8730,
+    "cap_5": "",
+    "name": "Hoạt động chăm sóc sức khoẻ người có công, người già và người khuyết tật không có khả năng tự chăm sóc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87301,
+    "name": "Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87302,
+    "name": "Hoạt động chăm sóc sức khoẻ người già"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87303,
+    "name": "Hoạt động chăm sóc sức khoẻ người khuyết tật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 879,
+    "cap_4": 8790,
+    "cap_5": "",
+    "name": "Hoạt động chăm sóc tập trung khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87901,
+    "name": "Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 87909,
+    "name": "Hoạt động chăm sóc tập trung khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 88,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động trợ giúp xã hội không tập trung"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 881,
+    "cap_4": 8810,
+    "cap_5": "",
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với\nngười có công, thương bệnh binh, người già và người khuyết tật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 88101,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 88102,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 88103,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với người già và người khuyết tật"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 889,
+    "cap_4": 8890,
+    "cap_5": 88900,
+    "name": "Hoạt động trợ giúp xã hội không tập trung khác"
+  },
+  {
+    "cap_1": "R",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "NGHỆ THUẬT, VUI CHƠI VÀ GIẢI TRÍ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 90,
+    "cap_3": 900,
+    "cap_4": 9000,
+    "cap_5": 90000,
+    "name": "Hoạt động sáng tác, nghệ thuật và giải trí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 91,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hóa khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 910,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hóa khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9101,
+    "cap_5": 91010,
+    "name": "Hoạt động thư viện và lưu trữ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9102,
+    "cap_5": 91020,
+    "name": "Hoạt động bảo tồn, bảo tàng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9103,
+    "cap_5": 91030,
+    "name": "Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 92,
+    "cap_3": 920,
+    "cap_4": 9200,
+    "cap_5": "",
+    "name": "Hoạt động xổ số, cá cược và đánh bạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 92001,
+    "name": "Hoạt động xổ số"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": 92002,
+    "name": "Hoạt động cá cược và đánh bạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 93,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động thể thao, vui chơi và giải trí"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 931,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động thể thao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9311,
+    "cap_5": 93110,
+    "name": "Hoạt động của các cơ sở thể thao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9312,
+    "cap_5": 93120,
+    "name": "Hoạt động của các câu lạc bộ thể thao"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9319,
+    "cap_5": 93190,
+    "name": "Hoạt động thể thao khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 932,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động vui chơi giải trí khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9321,
+    "cap_5": 93210,
+    "name": "Hoạt động của các công viên vui chơi và công viên theo chủ đề"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9329,
+    "cap_5": 93290,
+    "name": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "S",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG DỊCH VỤ KHÁC"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 94,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của các hiệp hội, tổ chức khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 941,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của các hiệp hội kinh doanh, nghiệp chủ và nghề nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9411,
+    "cap_5": 94110,
+    "name": "Hoạt động của các hiệp hội kinh doanh và nghiệp chủ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9412,
+    "cap_5": 94120,
+    "name": "Hoạt động của các hội nghề nghiệp"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 942,
+    "cap_4": 9420,
+    "cap_5": 94200,
+    "name": "Hoạt động của công đoàn"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 949,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động của các tổ chức khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9491,
+    "cap_5": 94910,
+    "name": "Hoạt động của các tổ chức tôn giáo"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9499,
+    "cap_5": 94990,
+    "name": "Hoạt động của các tổ chức khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 95,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sửa chữa máy vi tính, đồ dùng cá nhân và gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 951,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sửa chữa máy vi tính và thiết bị liên lạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9511,
+    "cap_5": 95110,
+    "name": "Sửa chữa máy vi tính và thiết bị ngoại vi"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9512,
+    "cap_5": 95120,
+    "name": "Sửa chữa thiết bị liên lạc"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 952,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Sửa chữa đồ dùng cá nhân và gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9521,
+    "cap_5": 95210,
+    "name": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9522,
+    "cap_5": 95220,
+    "name": "Sửa chữa thiết bị, đồ dùng gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9523,
+    "cap_5": 95230,
+    "name": "Sửa chữa giày, dép, hàng da và giả da"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9524,
+    "cap_5": 95240,
+    "name": "Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tư"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9529,
+    "cap_5": 95290,
+    "name": "Sửa chữa xe đạp, đồng hồ, đồ dùng cá nhân và gia đình khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 96,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ phục vụ cá nhân khác"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 961,
+    "cap_4": 9610,
+    "cap_5": 96100,
+    "name": "Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 962,
+    "cap_4": 9620,
+    "cap_5": 96200,
+    "name": "Giặt là, làm sạch các sản phẩm dệt và lông thú"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 963,
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động dịch vụ phục vụ cá nhân khác chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9631,
+    "cap_5": 96310,
+    "name": "Cắt tóc, làm đầu, gội đầu"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9632,
+    "cap_5": 96320,
+    "name": "Hoạt động dịch vụ phục vụ tang lễ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9633,
+    "cap_5": 96330,
+    "name": "Hoạt động dịch vụ phục vụ hôn lễ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": 9639,
+    "cap_5": 96390,
+    "name": "Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "cap_1": "T",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG LÀM THUÊ CÁC CÔNG VIỆC TRONG CÁC HỘ GIA ĐÌNH, SẢN XUẤT SẢN PHẨM VẬT CHẤT VÀ DỊCH VỤ TỰ TIÊU DÙNG CỦA HỘ GIA ĐÌNH"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 97,
+    "cap_3": 970,
+    "cap_4": 9700,
+    "cap_5": 97000,
+    "name": "Hoạt động làm thuê công việc gia đình trong các hộ gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 98,
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "Hoạt động sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 981,
+    "cap_4": 9810,
+    "cap_5": 98100,
+    "name": "Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "cap_1": "",
+    "cap_2": "",
+    "cap_3": 982,
+    "cap_4": 9820,
+    "cap_5": 98200,
+    "name": "Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "cap_1": "U",
+    "cap_2": "",
+    "cap_3": "",
+    "cap_4": "",
+    "cap_5": "",
+    "name": "HOẠT ĐỘNG CỦA CÁC TỔ CHỨC VÀ CƠ QUAN QUỐC TẾ"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 99,
+    "cap_3": 990,
+    "cap_4": 9900,
+    "cap_5": 99000,
+    "name": "Hoạt động của các tổ chức và cơ quan quốc tế"
+  },
+  {
+    "cap_1": "",
+    "cap_2": 88,
+    "cap_3": 242,
+    "cap_4": 486,
+    "cap_5": 734,
+    "name": ""
+  }
+]

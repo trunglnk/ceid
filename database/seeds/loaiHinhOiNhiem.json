@@ -1,0 +1,118 @@
+[
+  {
+    "stt": "01",
+    "name": "Làm giàu, chế biến khoáng sản độc hại, khoáng sản kim loại; chế biến khoáng sản có sử dụng hóa chất độc hại"
+  },
+  {
+    "stt": "02",
+    "name": "Sản xuất thủy tinh"
+  },
+  {
+    "stt": "03",
+    "name": "Sản xuất gang, thép, luyện kim (trừ cán, kéo, đúc từ phôi nguyên liệu)"
+  },
+  {
+    "stt": "04",
+    "name": "Sản xuất giấy, bột giấy"
+  },
+  {
+    "stt": "05",
+    "name": "Sản xuất hoá chất vô cơ cơ bản (trừ khí công nghiệp), phân bón vô cơ (trừ phối trộn, sang chiết, đóng gói), thuốc bảo vệ thực vật hóa học (trừ phối trộn, sang chiết)"
+  },
+  {
+    "stt": "06",
+    "name": "Sản xuất vải, sợi, dệt may (có công đoạn nhuộm, giặt mài hoặc nấu sợi)"
+  },
+  {
+    "stt": "07",
+    "name": "Sản xuất da, thuộc da"
+  },
+  {
+    "stt": "08",
+    "name": "Khai thác dầu khí"
+  },
+  {
+    "stt": "09",
+    "name": "Lọc, hóa dầu"
+  },
+  {
+    "stt": 10,
+    "name": "Nhiệt điện (trừ sử dụng khí, dầu DO)"
+  },
+  {
+    "stt": 11,
+    "name": "Sản xuất than cốc"
+  },
+  {
+    "stt": 12,
+    "name": "Sản xuất khí than"
+  },
+  {
+    "stt": 13,
+    "name": "Tái chế, xử lý chất thải rắn sinh hoạt, chất thải rắn công nghiệp thông thường"
+  },
+  {
+    "stt": 14,
+    "name": "Tái chế, xử lý chất thải nguy hại"
+  },
+  {
+    "stt": 15,
+    "name": "Phá dỡ tàu biển đã qua sử dụng"
+  },
+  {
+    "stt": 16,
+    "name": "Sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất"
+  },
+  {
+    "stt": 17,
+    "name": "Xây dựng lò phản ứng hạt nhân, điện hạt nhân"
+  },
+  {
+    "stt": 18,
+    "name": "Mạ, làm sạch bề mặt kim loại bằng hóa chất"
+  },
+  {
+    "stt": 19,
+    "name": "Sản xuất pin, ắc quy"
+  },
+  {
+    "stt": 20,
+    "name": "Sản xuất xi măng"
+  },
+  {
+    "stt": 21,
+    "name": "Chế biến mủ cao su"
+  },
+  {
+    "stt": 22,
+    "name": "Chế biến tinh bột sắn và các sản phẩm phụ từ sắn có sử dụng nước; sản xuất bột ngọt"
+  },
+  {
+    "stt": 23,
+    "name": "Sản xuất bia, nước giải khát có gas"
+  },
+  {
+    "stt": 24,
+    "name": "Sản xuất cồn công nghiệp"
+  },
+  {
+    "stt": 25,
+    "name": "Chế biến mía đường"
+  },
+  {
+    "stt": 26,
+    "name": "Chế biến thủy, hải sản"
+  },
+  {
+    "stt": 27,
+    "name": "Giết mổ gia súc, gia cầm quy mô công nghiệp"
+  },
+  {
+    "stt": 28,
+    "name": "Chăn nuôi gia súc, gia cầm quy mô công nghiệp"
+  },
+  {
+    "stt": 29,
+    "name": "Sản xuất linh kiện, thiết bị điện, điện tử"
+  }
+]

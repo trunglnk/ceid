@@ -1,0 +1,24 @@
+.title_master_form {
+    text-transform: uppercase;
+}
+
+input.has-warning {
+    border-color: #f39c12;
+    box-shadow: none;
+}
+
+select.has-warning {
+  border-color: #f39c12;
+  box-shadow: none;
+}
+
+span.message{
+  color: #f39c12;
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+.form-group.has-error .multiselect__tags {
+  border: 1px solid red;
+}

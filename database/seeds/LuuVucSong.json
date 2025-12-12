@@ -1,0 +1,238 @@
+ [
+        {
+            "Ma": "1",
+            "Ten": "Sông Bằng Giang - Kỳ Cùng",
+            "Tinh": "Tỉnh Cao Bằng||Tỉnh Bắc Kạn||Tỉnh Lạng Sơn",
+            "DienTich": "10.847"
+        },
+        {
+            "Ma": "2",
+            "Ten": "Sông Hồng - Thái Bình",
+            "Tinh": "Tỉnh Lào Cai||Tỉnh Hà Giang||Tỉnh Lai Châu||Tỉnh Sơn La||Tỉnh Yên Bái||Tỉnh Cao Bằng||Tỉnh Bắc Kạn||Tỉnh Điện Biên||Tỉnh Tuyên Quang||Tỉnh Phú Thọ||Tỉnh Vĩnh Phúc||Tỉnh Thái Nguyên||Tỉnh Lạng Sơn||Tỉnh Bắc Giang||Tỉnh Bắc Ninh||Tỉnh Hưng Yên||Thành phố Hà Nội||Tỉnh Hải Dương||Tỉnh Hà Nam||Tỉnh Hòa Bình||Tỉnh Ninh Bình||Tỉnh Nam Định||Tỉnh Thái Bình||Tỉnh Quảng Ninh||Thành phố Hải Phòng",
+            "DienTich": "88.86"
+        },
+        {
+            "Ma": "3",
+            "Ten": "Sông Mã",
+            "Tinh": "Tỉnh Sơn La||Tỉnh Nghệ An||Tỉnh Hòa Bình||Tỉnh Điện Biên||Tỉnh Thanh Hóa",
+            "ChieuDai": "445",
+            "DienTich": "17.653"
+        },
+        {
+            "Ma": "4",
+            "Ten": "Sông Cả",
+            "Tinh": "Tỉnh Hà Tĩnh||Tỉnh Nghệ An||Tỉnh Thanh Hóa",
+            "ChieuDai": "418",
+            "DienTich": "17.9"
+        },
+        {
+            "Ma": "5",
+            "Ten": "Sông Vu Gia - Thu Bồn",
+            "Tinh": "Tỉnh Kon Tum||Tỉnh Thừa Thiên Huế||Thành phố Đà Nẵng||Tỉnh Quảng Ngãi||Tỉnh Quảng Nam",
+            "DienTich": "10.035"
+        },
+        {
+            "Ma": "6",
+            "Ten": "Sông Ba",
+            "Tinh": "Tỉnh Gia Lai||Tỉnh Đắk Lắk||Tỉnh Phú Yên||Tỉnh Bình Định",
+            "ChieuDai": "396",
+            "DienTich": "13.417",
+            "GhiChu": "Tên khác: Sông Đà Rằng, Sông Ea Pa"
+        },
+        {
+            "Ma": "7",
+            "Ten": "Sông Đồng Nai",
+            "Tinh": "Thành phố Hồ Chí Minh||Tỉnh Đồng Nai||Tỉnh Bình Dương||Tỉnh Bình Phước||Tỉnh Bà Rịa - Vũng Tàu||Tỉnh Long An||Tỉnh Tây Ninh||Tỉnh Lâm Đồng||Tỉnh Đắk Lắk||Tỉnh Đắk Nông||Tỉnh Ninh Thuận||Tỉnh Bình Thuận",
+            "ChieuDai": "628",
+            "DienTich": "36.53"
+        },
+        {
+            "Ma": "8",
+            "Ten": "Sông Mê Công (Cửu Long)",
+            "Tinh": "Tỉnh Điện Biên||Tỉnh Quảng Trị||Tỉnh Thừa Thiện Huế||Tỉnh Kon Tum||Tỉnh Gia Lai||Tỉnh Đắk Lắk||Tỉnh Đắk Nông||Tỉnh Lâm Đồng||Tỉnh Long An||Tỉnh Tiền Giang||Tỉnh Đồng Tháp||Tỉnh An Giang||Tỉnh Bến Tre||Tỉnh Vĩnh Long||Tỉnh Trà Vinh||Thành phố Cần Thơ||Tỉnh Hậu Giang||Tỉnh Sóc Trăng||Tỉnh Bạc Liêu||Tỉnh Kiên Giang||Tỉnh Cà Mau",
+            "DienTich": "75.257"
+        },
+        {
+            "Ma": "9",
+            "Ten": "Sông Tiên Yên",
+            "Tinh": "Tỉnh Lạng Sơn||Tỉnh Quảng Ninh",
+            "ChieuDai": "93",
+            "GhiChu": "Sông xuyên biên giới"
+        },
+        {
+            "Ma": "10",
+            "Ten": "Sông Ba Chẽ",
+            "Tinh": "Tỉnh Lạng Sơn||Tỉnh Quảng Ninh",
+            "ChieuDai": "110"
+        },
+        {
+            "Ma": "11",
+            "Ten": "Sông Tống",
+            "Tinh": "Tỉnh Ninh Bình||Tỉnh Thanh Hóa",
+            "ChieuDai": "37",
+            "DienTich": "310",
+            "GhiChu": "Tên khác: Sông Càn"
+        },
+        {
+            "Ma": "12",
+            "Ten": "Sông Yên",
+            "Tinh": "Tỉnh Thanh Hóa||Tỉnh Nghệ An",
+            "ChieuDai": "96",
+            "DienTich": "1.633"
+        },
+        {
+            "Ma": "13",
+            "Ten": "Sông Lạch Bạng",
+            "Tinh": "Tỉnh Thanh Hóa||Tỉnh Nghệ An",
+            "ChieuDai": "32",
+            "DienTich": "307",
+            "GhiChu": "Tên khác: Sông Thạch Luyện"
+        },
+        {
+            "Ma": "14",
+            "Ten": "Sông Gianh",
+            "Tinh": "Tỉnh Hà Tĩnh||Tỉnh Quảng Bình",
+            "ChieuDai": "165",
+            "DienTich": "4.538"
+        },
+        {
+            "Ma": "15",
+            "Ten": "Sông Bến Hải",
+            "Tinh": "Tỉnh Quảng Trị||Tỉnh Quảng Bình",
+            "ChieuDai": "76",
+            "DienTich": "923"
+        },
+        {
+            "Ma": "16",
+            "Ten": "Sông Ô Lâu",
+            "Tinh": "Tỉnh Quảng Trị||Tỉnh Thừa Thiên Huế",
+            "ChieuDai": "99",
+            "DienTich": "926"
+        },
+        {
+            "Ma": "17",
+            "Ten": "Sông Hương",
+            "Tinh": "Tỉnh Thừa Thiên Huế||Thành phố Đà Nẵng",
+            "ChieuDai": "106",
+            "DienTich": "3.066"
+        },
+        {
+            "Ma": "18",
+            "Ten": "Sông Trà Khúc",
+            "Tinh": "Tỉnh Kom Tum||Tỉnh Quảng Ngãi||Tỉnh Quảng Nam",
+            "ChieuDai": "148",
+            "DienTich": "3.337"
+        },
+        {
+            "Ma": "19",
+            "Ten": "Sông Lại Giang",
+            "Tinh": "Tỉnh Bình Định||Tỉnh Quảng Ngãi",
+            "ChieuDai": "92",
+            "DienTich": "1.487"
+        },
+        {
+            "Ma": "20",
+            "Ten": "Sông Kôn-Hà Thanh",
+            "Tinh": "Tỉnh Gia Lai||Tỉnh Bình Định",
+            "DienTich": "3.809"
+        },
+        {
+            "Ma": "21",
+            "Ten": "Sông Kỳ Lộ",
+            "Tinh": "Tỉnh Gia Lai||Tỉnh Bình Định||Tỉnh Phú Yên",
+            "ChieuDai": "105",
+            "DienTich": "1.968"
+        },
+        {
+            "Ma": "22",
+            "Ten": "Sông Cái Ninh Hòa",
+            "Tinh": "Tỉnh Đắk Lắk||Tỉnh Khánh Hòa",
+            "ChieuDai": "53",
+            "DienTich": "916",
+            "GhiChu": "Tên khác: Sông Dinh"
+        },
+        {
+            "Ma": "23",
+            "Ten": "Sông Cái Nha Trang",
+            "Tinh": "Tỉnh Đắk Lắk||Tỉnh Khánh Hòa",
+            "ChieuDai": "84",
+            "DienTich": "1.732"
+        },
+        {
+            "Ma": "24",
+            "Ten": "Sông Cạn",
+            "Tinh": "Tỉnh Khánh Hòa||Tỉnh Ninh Thuận",
+            "ChieuDai": "20",
+            "DienTich": "88",
+            "GhiChu": "Tên khác: Suối Rùa"
+        },
+        {
+            "Ma": "25",
+            "Ten": "Sông Trâu",
+            "Tinh": "Tỉnh Khánh Hòa||Tỉnh Ninh Thuận",
+            "ChieuDai": "27",
+            "DienTich": "220",
+            "GhiChu": "Tên khác: Suối Dầu, Sông Võ Tá"
+        },
+        {
+            "Ma": "26",
+            "Ten": "Sông Cái Phan Rang",
+            "Tinh": "Tỉnh Khánh Hòa||Tỉnh Ninh Thuận||Tỉnh Lâm Đồng||Tỉnh Bình Thuận",
+            "ChieuDai": "135",
+            "DienTich": "3.109",
+            "GhiChu": "Tên khác: Sông Tô Hạp"
+        },
+        {
+            "Ma": "27",
+            "Ten": "Sông Lũy",
+            "Tinh": "Tỉnh Lâm Đồng||Tỉnh Bình Thuận",
+            "ChieuDai": "96",
+            "DienTich": "2.014"
+        },
+        {
+            "Ma": "28",
+            "Ten": "Sông Cái Phan Thiết",
+            "Tinh": "Tỉnh Lâm Đồng||Tỉnh Bình Thuận",
+            "ChieuDai": "92",
+            "DienTich": "1.239",
+            "GhiChu": "Tên khác: Sông Quao"
+        },
+        {
+            "Ma": "29",
+            "Ten": "Sông Dinh",
+            "Tinh": "Tỉnh Đồng Nai||Tỉnh Bình Thuận",
+            "ChieuDai": "57",
+            "DienTich": "904"
+        },
+        {
+            "Ma": "30",
+            "Ten": "Sông Đu Đủ",
+            "Tinh": "Tỉnh Bà Rịa - Vũng Tàu||Tỉnh Bình Thuận",
+            "ChieuDai": "27",
+            "DienTich": "180",
+            "GhiChu": "Tên khác: Sông Chùa, Suối, Tà Răng"
+        },
+        {
+            "Ma": "31",
+            "Ten": "Sông Ray",
+            "Tinh": "Tỉnh Đồng Nai||Tỉnh Bà Rịa - Vũng Tàu",
+            "ChieuDai": "114",
+            "DienTich": "1.279"
+        },
+        {
+            "Ma": "32",
+            "Ten": "Sông Nhuệ-Sông Đáy",
+            "Tinh": "Thành phố Hà Nội||Tỉnh Hà Nam||Tỉnh Ninh Bình||Tỉnh Nam Định||Tỉnh Hòa Bình"
+        },
+        {
+            "Ma": "33",
+            "Ten": "Sông Cầu",
+            "Tinh": "Tỉnh Bắc Kạn||Tỉnh Thái Nguyên||Tỉnh Vĩnh Phúc||Tỉnh Bắc Giang||Tỉnh Bắc Ninh||Tỉnh Hải Dương"
+        },
+        {
+            "Ma": "34",
+            "Ten": "Sông Bắc Hưng Hải",
+            "Tinh": "Thành phố Hà Nội||Tỉnh Hưng Yên||Tỉnh Bắc Ninh||Tỉnh Hải Dương",
+            "ChieuDai": "35"
+        }
+    ]

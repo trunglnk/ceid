@@ -1,0 +1,66 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Field name 
+    |--------------------------------------------------------------------------
+    |   
+    |
+    */    
+    'name' => 'Tên',    
+    'username' => 'Tên đăng nhập',           
+    'email' => 'Email',                                  
+    'role' => 'Vai trò',                                  
+    'status' => 'Trạng thái',                                  
+    'edit' => 'Chỉnh sửa',                                  
+    'delete' => 'Xóa',                                  
+    'password' => 'Mật khẩu',                                  
+    'repeat_password' => 'Nhập lại mật khẩu',                                  
+    'new_password' => 'Nhập lại mật khẩu',                                  
+    'active' => 'Hoạt động',                                  
+    'inactive' => 'Không hoạt động',                                  
+    'note' => 'Ghi chú',                                  
+    'role_system' => 'Vai trò hệ thống',                                  
+    'code' => 'Mã',                                     
+    'route_name' => 'Route name',                                     
+    'order' => 'Thứ tự',                                     
+    'icon' => 'Icon',                                     
+    'parent_menu' => 'Thuộc chức năng',                                     
+    'home_page' => 'Trang chủ',                                     
+    'catagory' => 'Danh mục',                                     
+    'menu' => 'Menu',                                     
+    'secret' => 'Bí mật',                                     
+    'redirect' => 'Chỉnh lại',                                     
+    'personal_access_client' => 'Ứng dụng truy cập cá nhân',                                     
+    'password_client' => 'Mật khẩu ứng dụng',                                     
+    'revoked' => 'Hủy bỏ',                                                                            
+    'description' => 'Mô tả',                                                                            
+    'client' => 'Ứng dụng',                                                                            
+    'access_token_live' => 'Mã thông báo truy cập trực tiếp',                                                                            
+    'refresh_token_live' => 'Làm mới mã thông báo trực tiếp',                                                                            
+    'role_client' => 'Vai trò trong ứng dụng',                                                                            
+    'ip' => 'Địa chỉ IP',                                                                            
+    'datetime' => 'Ngày giờ',                                                                            
+    'domain' => 'Miền',                                                                            
+    'user_agent' => 'Đại lý người dùng ',                                                                            
+    'detail' => 'Chi tiết',                                                                            
+    'user' => 'Người dùng',                                                                            
+    'phone_number' => 'Số điện thoại',                                                                            
+    'shop_name' => 'Tên cửa hàng',                                                                            
+    'address' => 'Địa chỉ',                                                                                                                                                     
+    'district' => 'Quận/Huyện',                                                                            
+    'province' => 'Tỉnh',                                                                            
+    'post' => 'Bưu cục',                                                                            
+    'identification_number' => 'Số CMND/Hộ chiếu',                                                                            
+    'bank_account' => 'Tài khoản ngân hàng',                                                                            
+    'bank_name' => 'Tên ngân hàng',                                                                                                                                                                                                          
+    'commune' => 'Xã',
+    'lat'=>'Lat',  
+    'full_name'=>'Họ và tên',
+    'notes' => 'Ghi chú',
+    'unit'=>'Đơn vị',
+    'symbol'=>'Ký hiệu', 
+    'quantity'=>'Số lượng', 
+];

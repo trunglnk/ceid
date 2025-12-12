@@ -1,0 +1,4286 @@
+[
+ {
+  "id_coso": 1136,
+  "idchudautu": 1
+ },
+ {
+  "id_coso": 1144,
+  "idchudautu": 3
+ },
+ {
+  "id_coso": 278,
+  "idchudautu": 4
+ },
+ {
+  "id_coso": 775,
+  "idchudautu": 5
+ },
+ {
+  "id_coso": 325,
+  "idchudautu": 12
+ },
+ {
+  "id_coso": 1145,
+  "idchudautu": 13
+ },
+ {
+  "id_coso": 1147,
+  "idchudautu": 14
+ },
+ {
+  "id_coso": 1153,
+  "idchudautu": 17
+ },
+ {
+  "id_coso": 1160,
+  "idchudautu": 18
+ },
+ {
+  "id_coso": 1140,
+  "idchudautu": 21
+ },
+ {
+  "id_coso": 1146,
+  "idchudautu": 22
+ },
+ {
+  "id_coso": 1425,
+  "idchudautu": 26
+ },
+ {
+  "id_coso": 1161,
+  "idchudautu": 27
+ },
+ {
+  "id_coso": 1141,
+  "idchudautu": 2014
+ },
+ {
+  "id_coso": 1138,
+  "idchudautu": 38
+ },
+ {
+  "id_coso": 1152,
+  "idchudautu": 39
+ },
+ {
+  "id_coso": 1156,
+  "idchudautu": 54
+ },
+ {
+  "id_coso": 1165,
+  "idchudautu": 55
+ },
+ {
+  "id_coso": 561,
+  "idchudautu": 56
+ },
+ {
+  "id_coso": 1322,
+  "idchudautu": 60
+ },
+ {
+  "id_coso": 1430,
+  "idchudautu": 61
+ },
+ {
+  "id_coso": 1143,
+  "idchudautu": 63
+ },
+ {
+  "id_coso": 1166,
+  "idchudautu": 65
+ },
+ {
+  "id_coso": 1197,
+  "idchudautu": 68
+ },
+ {
+  "id_coso": 1104,
+  "idchudautu": 82
+ },
+ {
+  "id_coso": 1105,
+  "idchudautu": 84
+ },
+ {
+  "id_coso": 369,
+  "idchudautu": 87
+ },
+ {
+  "id_coso": 291,
+  "idchudautu": 90
+ },
+ {
+  "id_coso": 1129,
+  "idchudautu": 91
+ },
+ {
+  "id_coso": 522,
+  "idchudautu": 98
+ },
+ {
+  "id_coso": 933,
+  "idchudautu": 161
+ },
+ {
+  "id_coso": 1443,
+  "idchudautu": 176
+ },
+ {
+  "id_coso": 997,
+  "idchudautu": 178
+ },
+ {
+  "id_coso": 1000,
+  "idchudautu": 179
+ },
+ {
+  "id_coso": 1005,
+  "idchudautu": 182
+ },
+ {
+  "id_coso": 1022,
+  "idchudautu": 186
+ },
+ {
+  "id_coso": 1133,
+  "idchudautu": 194
+ },
+ {
+  "id_coso": 543,
+  "idchudautu": 195
+ },
+ {
+  "id_coso": 1353,
+  "idchudautu": 206
+ },
+ {
+  "id_coso": 1434,
+  "idchudautu": 207
+ },
+ {
+  "id_coso": 552,
+  "idchudautu": 222
+ },
+ {
+  "id_coso": 991,
+  "idchudautu": 229
+ },
+ {
+  "id_coso": 623,
+  "idchudautu": 231
+ },
+ {
+  "id_coso": 767,
+  "idchudautu": 232
+ },
+ {
+  "id_coso": 1436,
+  "idchudautu": 237
+ },
+ {
+  "id_coso": 547,
+  "idchudautu": 241
+ },
+ {
+  "id_coso": 553,
+  "idchudautu": 243
+ },
+ {
+  "id_coso": 11,
+  "idchudautu": 247
+ },
+ {
+  "id_coso": 1067,
+  "idchudautu": 271
+ },
+ {
+  "id_coso": 1070,
+  "idchudautu": 272
+ },
+ {
+  "id_coso": 286,
+  "idchudautu": 276
+ },
+ {
+  "id_coso": 274,
+  "idchudautu": 279
+ },
+ {
+  "id_coso": 1452,
+  "idchudautu": 304
+ },
+ {
+  "id_coso": 293,
+  "idchudautu": 308
+ },
+ {
+  "id_coso": 359,
+  "idchudautu": 314
+ },
+ {
+  "id_coso": 346,
+  "idchudautu": 338
+ },
+ {
+  "id_coso": 383,
+  "idchudautu": 352
+ },
+ {
+  "id_coso": 572,
+  "idchudautu": 381
+ },
+ {
+  "id_coso": 639,
+  "idchudautu": 426
+ },
+ {
+  "id_coso": 1546,
+  "idchudautu": 437
+ },
+ {
+  "id_coso": 699,
+  "idchudautu": 444
+ },
+ {
+  "id_coso": 805,
+  "idchudautu": 450
+ },
+ {
+  "id_coso": 808,
+  "idchudautu": 453
+ },
+ {
+  "id_coso": 850,
+  "idchudautu": 472
+ },
+ {
+  "id_coso": 932,
+  "idchudautu": 505
+ },
+ {
+  "id_coso": 707,
+  "idchudautu": 512
+ },
+ {
+  "id_coso": 530,
+  "idchudautu": 529
+ },
+ {
+  "id_coso": 1060,
+  "idchudautu": 547
+ },
+ {
+  "id_coso": 295,
+  "idchudautu": 562
+ },
+ {
+  "id_coso": 406,
+  "idchudautu": 577
+ },
+ {
+  "id_coso": 408,
+  "idchudautu": 578
+ },
+ {
+  "id_coso": 4119,
+  "idchudautu": 578
+ },
+ {
+  "id_coso": 1549,
+  "idchudautu": 582
+ },
+ {
+  "id_coso": 887,
+  "idchudautu": 584
+ },
+ {
+  "id_coso": 414,
+  "idchudautu": 590
+ },
+ {
+  "id_coso": 422,
+  "idchudautu": 593
+ },
+ {
+  "id_coso": 382,
+  "idchudautu": 598
+ },
+ {
+  "id_coso": 1550,
+  "idchudautu": 608
+ },
+ {
+  "id_coso": 912,
+  "idchudautu": 613
+ },
+ {
+  "id_coso": 918,
+  "idchudautu": 614
+ },
+ {
+  "id_coso": 1134,
+  "idchudautu": 615
+ },
+ {
+  "id_coso": 926,
+  "idchudautu": 617
+ },
+ {
+  "id_coso": 927,
+  "idchudautu": 618
+ },
+ {
+  "id_coso": 937,
+  "idchudautu": 631
+ },
+ {
+  "id_coso": 536,
+  "idchudautu": 637
+ },
+ {
+  "id_coso": 4408,
+  "idchudautu": 637
+ },
+ {
+  "id_coso": 4409,
+  "idchudautu": 637
+ },
+ {
+  "id_coso": 975,
+  "idchudautu": 642
+ },
+ {
+  "id_coso": 538,
+  "idchudautu": 646
+ },
+ {
+  "id_coso": 540,
+  "idchudautu": 647
+ },
+ {
+  "id_coso": 630,
+  "idchudautu": 653
+ },
+ {
+  "id_coso": 1128,
+  "idchudautu": 661
+ },
+ {
+  "id_coso": 1017,
+  "idchudautu": 665
+ },
+ {
+  "id_coso": 1028,
+  "idchudautu": 670
+ },
+ {
+  "id_coso": 4023,
+  "idchudautu": 670
+ },
+ {
+  "id_coso": 467,
+  "idchudautu": 676
+ },
+ {
+  "id_coso": 1813,
+  "idchudautu": 677
+ },
+ {
+  "id_coso": 1814,
+  "idchudautu": 677
+ },
+ {
+  "id_coso": 463,
+  "idchudautu": 678
+ },
+ {
+  "id_coso": 466,
+  "idchudautu": 681
+ },
+ {
+  "id_coso": 1476,
+  "idchudautu": 687
+ },
+ {
+  "id_coso": 1268,
+  "idchudautu": 688
+ },
+ {
+  "id_coso": 1497,
+  "idchudautu": 692
+ },
+ {
+  "id_coso": 1111,
+  "idchudautu": 697
+ },
+ {
+  "id_coso": 1064,
+  "idchudautu": 709
+ },
+ {
+  "id_coso": 324,
+  "idchudautu": 711
+ },
+ {
+  "id_coso": 1674,
+  "idchudautu": 733
+ },
+ {
+  "id_coso": 654,
+  "idchudautu": 757
+ },
+ {
+  "id_coso": 1407,
+  "idchudautu": 781
+ },
+ {
+  "id_coso": 1288,
+  "idchudautu": 807
+ },
+ {
+  "id_coso": 1410,
+  "idchudautu": 810
+ },
+ {
+  "id_coso": 1411,
+  "idchudautu": 814
+ },
+ {
+  "id_coso": 1639,
+  "idchudautu": 817
+ },
+ {
+  "id_coso": 1638,
+  "idchudautu": 821
+ },
+ {
+  "id_coso": 644,
+  "idchudautu": 823
+ },
+ {
+  "id_coso": 956,
+  "idchudautu": 833
+ },
+ {
+  "id_coso": 1040,
+  "idchudautu": 839
+ },
+ {
+  "id_coso": 491,
+  "idchudautu": 846
+ },
+ {
+  "id_coso": 494,
+  "idchudautu": 849
+ },
+ {
+  "id_coso": 503,
+  "idchudautu": 856
+ },
+ {
+  "id_coso": 1307,
+  "idchudautu": 872
+ },
+ {
+  "id_coso": 1049,
+  "idchudautu": 889
+ },
+ {
+  "id_coso": 752,
+  "idchudautu": 930
+ },
+ {
+  "id_coso": 1678,
+  "idchudautu": 939
+ },
+ {
+  "id_coso": 1679,
+  "idchudautu": 939
+ },
+ {
+  "id_coso": 1680,
+  "idchudautu": 940
+ },
+ {
+  "id_coso": 1681,
+  "idchudautu": 941
+ },
+ {
+  "id_coso": 1682,
+  "idchudautu": 942
+ },
+ {
+  "id_coso": 1684,
+  "idchudautu": 944
+ },
+ {
+  "id_coso": 1685,
+  "idchudautu": 944
+ },
+ {
+  "id_coso": 1686,
+  "idchudautu": 945
+ },
+ {
+  "id_coso": 1687,
+  "idchudautu": 946
+ },
+ {
+  "id_coso": 1688,
+  "idchudautu": 947
+ },
+ {
+  "id_coso": 1689,
+  "idchudautu": 948
+ },
+ {
+  "id_coso": 1690,
+  "idchudautu": 949
+ },
+ {
+  "id_coso": 1694,
+  "idchudautu": 953
+ },
+ {
+  "id_coso": 1695,
+  "idchudautu": 954
+ },
+ {
+  "id_coso": 1696,
+  "idchudautu": 955
+ },
+ {
+  "id_coso": 1697,
+  "idchudautu": 956
+ },
+ {
+  "id_coso": 1698,
+  "idchudautu": 957
+ },
+ {
+  "id_coso": 1699,
+  "idchudautu": 958
+ },
+ {
+  "id_coso": 1700,
+  "idchudautu": 959
+ },
+ {
+  "id_coso": 1701,
+  "idchudautu": 960
+ },
+ {
+  "id_coso": 1752,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1753,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1754,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1755,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1756,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1757,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1758,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1759,
+  "idchudautu": 961
+ },
+ {
+  "id_coso": 1703,
+  "idchudautu": 962
+ },
+ {
+  "id_coso": 1706,
+  "idchudautu": 965
+ },
+ {
+  "id_coso": 1707,
+  "idchudautu": 966
+ },
+ {
+  "id_coso": 1708,
+  "idchudautu": 967
+ },
+ {
+  "id_coso": 1709,
+  "idchudautu": 968
+ },
+ {
+  "id_coso": 1718,
+  "idchudautu": 969
+ },
+ {
+  "id_coso": 1719,
+  "idchudautu": 969
+ },
+ {
+  "id_coso": 1720,
+  "idchudautu": 969
+ },
+ {
+  "id_coso": 1711,
+  "idchudautu": 970
+ },
+ {
+  "id_coso": 1712,
+  "idchudautu": 971
+ },
+ {
+  "id_coso": 1713,
+  "idchudautu": 972
+ },
+ {
+  "id_coso": 1714,
+  "idchudautu": 973
+ },
+ {
+  "id_coso": 1715,
+  "idchudautu": 973
+ },
+ {
+  "id_coso": 1716,
+  "idchudautu": 974
+ },
+ {
+  "id_coso": 1717,
+  "idchudautu": 975
+ },
+ {
+  "id_coso": 1721,
+  "idchudautu": 976
+ },
+ {
+  "id_coso": 1722,
+  "idchudautu": 977
+ },
+ {
+  "id_coso": 1724,
+  "idchudautu": 979
+ },
+ {
+  "id_coso": 1726,
+  "idchudautu": 981
+ },
+ {
+  "id_coso": 1728,
+  "idchudautu": 982
+ },
+ {
+  "id_coso": 1729,
+  "idchudautu": 982
+ },
+ {
+  "id_coso": 1730,
+  "idchudautu": 982
+ },
+ {
+  "id_coso": 1733,
+  "idchudautu": 984
+ },
+ {
+  "id_coso": 1734,
+  "idchudautu": 985
+ },
+ {
+  "id_coso": 1735,
+  "idchudautu": 986
+ },
+ {
+  "id_coso": 1736,
+  "idchudautu": 987
+ },
+ {
+  "id_coso": 1737,
+  "idchudautu": 988
+ },
+ {
+  "id_coso": 260,
+  "idchudautu": 990
+ },
+ {
+  "id_coso": 266,
+  "idchudautu": 990
+ },
+ {
+  "id_coso": 1741,
+  "idchudautu": 990
+ },
+ {
+  "id_coso": 1742,
+  "idchudautu": 990
+ },
+ {
+  "id_coso": 1745,
+  "idchudautu": 991
+ },
+ {
+  "id_coso": 1746,
+  "idchudautu": 992
+ },
+ {
+  "id_coso": 1747,
+  "idchudautu": 993
+ },
+ {
+  "id_coso": 1748,
+  "idchudautu": 994
+ },
+ {
+  "id_coso": 1749,
+  "idchudautu": 995
+ },
+ {
+  "id_coso": 1750,
+  "idchudautu": 996
+ },
+ {
+  "id_coso": 1751,
+  "idchudautu": 997
+ },
+ {
+  "id_coso": 1761,
+  "idchudautu": 998
+ },
+ {
+  "id_coso": 1762,
+  "idchudautu": 999
+ },
+ {
+  "id_coso": 1763,
+  "idchudautu": 1000
+ },
+ {
+  "id_coso": 1764,
+  "idchudautu": 1000
+ },
+ {
+  "id_coso": 1765,
+  "idchudautu": 1001
+ },
+ {
+  "id_coso": 1766,
+  "idchudautu": 1002
+ },
+ {
+  "id_coso": 1767,
+  "idchudautu": 1002
+ },
+ {
+  "id_coso": 1768,
+  "idchudautu": 1002
+ },
+ {
+  "id_coso": 1769,
+  "idchudautu": 1002
+ },
+ {
+  "id_coso": 1770,
+  "idchudautu": 1002
+ },
+ {
+  "id_coso": 1771,
+  "idchudautu": 1003
+ },
+ {
+  "id_coso": 1772,
+  "idchudautu": 1004
+ },
+ {
+  "id_coso": 1774,
+  "idchudautu": 1006
+ },
+ {
+  "id_coso": 1775,
+  "idchudautu": 1007
+ },
+ {
+  "id_coso": 1776,
+  "idchudautu": 1008
+ },
+ {
+  "id_coso": 1777,
+  "idchudautu": 1009
+ },
+ {
+  "id_coso": 1778,
+  "idchudautu": 1010
+ },
+ {
+  "id_coso": 1779,
+  "idchudautu": 1011
+ },
+ {
+  "id_coso": 1780,
+  "idchudautu": 1012
+ },
+ {
+  "id_coso": 1781,
+  "idchudautu": 1013
+ },
+ {
+  "id_coso": 1782,
+  "idchudautu": 1014
+ },
+ {
+  "id_coso": 1783,
+  "idchudautu": 1015
+ },
+ {
+  "id_coso": 1784,
+  "idchudautu": 1016
+ },
+ {
+  "id_coso": 1785,
+  "idchudautu": 1017
+ },
+ {
+  "id_coso": 1786,
+  "idchudautu": 1018
+ },
+ {
+  "id_coso": 1787,
+  "idchudautu": 1019
+ },
+ {
+  "id_coso": 1789,
+  "idchudautu": 1020
+ },
+ {
+  "id_coso": 1790,
+  "idchudautu": 1020
+ },
+ {
+  "id_coso": 1791,
+  "idchudautu": 1021
+ },
+ {
+  "id_coso": 1792,
+  "idchudautu": 1022
+ },
+ {
+  "id_coso": 1793,
+  "idchudautu": 1023
+ },
+ {
+  "id_coso": 1794,
+  "idchudautu": 1024
+ },
+ {
+  "id_coso": 1795,
+  "idchudautu": 1025
+ },
+ {
+  "id_coso": 1796,
+  "idchudautu": 1026
+ },
+ {
+  "id_coso": 1797,
+  "idchudautu": 1027
+ },
+ {
+  "id_coso": 1798,
+  "idchudautu": 1028
+ },
+ {
+  "id_coso": 1799,
+  "idchudautu": 1029
+ },
+ {
+  "id_coso": 1800,
+  "idchudautu": 1030
+ },
+ {
+  "id_coso": 1801,
+  "idchudautu": 1031
+ },
+ {
+  "id_coso": 1802,
+  "idchudautu": 1032
+ },
+ {
+  "id_coso": 355,
+  "idchudautu": 1033
+ },
+ {
+  "id_coso": 1804,
+  "idchudautu": 1034
+ },
+ {
+  "id_coso": 1805,
+  "idchudautu": 1035
+ },
+ {
+  "id_coso": 1806,
+  "idchudautu": 1035
+ },
+ {
+  "id_coso": 1809,
+  "idchudautu": 1038
+ },
+ {
+  "id_coso": 1810,
+  "idchudautu": 2156
+ },
+ {
+  "id_coso": 1811,
+  "idchudautu": 1040
+ },
+ {
+  "id_coso": 1812,
+  "idchudautu": 1041
+ },
+ {
+  "id_coso": 1816,
+  "idchudautu": 1043
+ },
+ {
+  "id_coso": 1817,
+  "idchudautu": 1043
+ },
+ {
+  "id_coso": 1818,
+  "idchudautu": 1044
+ },
+ {
+  "id_coso": 1819,
+  "idchudautu": 1045
+ },
+ {
+  "id_coso": 1820,
+  "idchudautu": 1046
+ },
+ {
+  "id_coso": 1822,
+  "idchudautu": 1048
+ },
+ {
+  "id_coso": 1823,
+  "idchudautu": 1049
+ },
+ {
+  "id_coso": 1824,
+  "idchudautu": 1050
+ },
+ {
+  "id_coso": 1825,
+  "idchudautu": 1051
+ },
+ {
+  "id_coso": 1826,
+  "idchudautu": 1052
+ },
+ {
+  "id_coso": 1828,
+  "idchudautu": 1054
+ },
+ {
+  "id_coso": 1829,
+  "idchudautu": 1055
+ },
+ {
+  "id_coso": 1830,
+  "idchudautu": 1056
+ },
+ {
+  "id_coso": 1833,
+  "idchudautu": 1059
+ },
+ {
+  "id_coso": 1834,
+  "idchudautu": 1059
+ },
+ {
+  "id_coso": 1839,
+  "idchudautu": 1064
+ },
+ {
+  "id_coso": 1842,
+  "idchudautu": 1066
+ },
+ {
+  "id_coso": 1843,
+  "idchudautu": 1066
+ },
+ {
+  "id_coso": 1844,
+  "idchudautu": 1067
+ },
+ {
+  "id_coso": 1845,
+  "idchudautu": 1067
+ },
+ {
+  "id_coso": 1846,
+  "idchudautu": 1068
+ },
+ {
+  "id_coso": 1847,
+  "idchudautu": 1069
+ },
+ {
+  "id_coso": 1854,
+  "idchudautu": 1073
+ },
+ {
+  "id_coso": 1855,
+  "idchudautu": 1074
+ },
+ {
+  "id_coso": 1856,
+  "idchudautu": 1074
+ },
+ {
+  "id_coso": 1857,
+  "idchudautu": 1075
+ },
+ {
+  "id_coso": 1858,
+  "idchudautu": 1076
+ },
+ {
+  "id_coso": 1859,
+  "idchudautu": 1077
+ },
+ {
+  "id_coso": 1860,
+  "idchudautu": 1078
+ },
+ {
+  "id_coso": 1861,
+  "idchudautu": 1079
+ },
+ {
+  "id_coso": 1862,
+  "idchudautu": 1080
+ },
+ {
+  "id_coso": 1863,
+  "idchudautu": 1081
+ },
+ {
+  "id_coso": 1864,
+  "idchudautu": 1082
+ },
+ {
+  "id_coso": 1865,
+  "idchudautu": 1083
+ },
+ {
+  "id_coso": 1866,
+  "idchudautu": 1083
+ },
+ {
+  "id_coso": 1867,
+  "idchudautu": 1083
+ },
+ {
+  "id_coso": 1868,
+  "idchudautu": 1083
+ },
+ {
+  "id_coso": 1869,
+  "idchudautu": 1083
+ },
+ {
+  "id_coso": 1870,
+  "idchudautu": 1084
+ },
+ {
+  "id_coso": 1875,
+  "idchudautu": 1086
+ },
+ {
+  "id_coso": 1876,
+  "idchudautu": 1086
+ },
+ {
+  "id_coso": 1877,
+  "idchudautu": 1086
+ },
+ {
+  "id_coso": 1878,
+  "idchudautu": 1087
+ },
+ {
+  "id_coso": 1879,
+  "idchudautu": 1088
+ },
+ {
+  "id_coso": 1881,
+  "idchudautu": 1089
+ },
+ {
+  "id_coso": 1882,
+  "idchudautu": 1089
+ },
+ {
+  "id_coso": 1883,
+  "idchudautu": 1089
+ },
+ {
+  "id_coso": 1885,
+  "idchudautu": 1089
+ },
+ {
+  "id_coso": 1884,
+  "idchudautu": 1090
+ },
+ {
+  "id_coso": 1886,
+  "idchudautu": 1091
+ },
+ {
+  "id_coso": 1887,
+  "idchudautu": 1092
+ },
+ {
+  "id_coso": 1888,
+  "idchudautu": 1093
+ },
+ {
+  "id_coso": 1889,
+  "idchudautu": 1094
+ },
+ {
+  "id_coso": 1890,
+  "idchudautu": 1095
+ },
+ {
+  "id_coso": 1891,
+  "idchudautu": 1096
+ },
+ {
+  "id_coso": 1892,
+  "idchudautu": 1097
+ },
+ {
+  "id_coso": 1893,
+  "idchudautu": 1098
+ },
+ {
+  "id_coso": 1895,
+  "idchudautu": 1099
+ },
+ {
+  "id_coso": 1896,
+  "idchudautu": 1099
+ },
+ {
+  "id_coso": 1897,
+  "idchudautu": 1100
+ },
+ {
+  "id_coso": 1898,
+  "idchudautu": 1101
+ },
+ {
+  "id_coso": 1899,
+  "idchudautu": 1102
+ },
+ {
+  "id_coso": 1900,
+  "idchudautu": 1103
+ },
+ {
+  "id_coso": 1901,
+  "idchudautu": 1104
+ },
+ {
+  "id_coso": 1902,
+  "idchudautu": 1105
+ },
+ {
+  "id_coso": 1903,
+  "idchudautu": 1106
+ },
+ {
+  "id_coso": 1904,
+  "idchudautu": 1107
+ },
+ {
+  "id_coso": 1905,
+  "idchudautu": 1108
+ },
+ {
+  "id_coso": 1906,
+  "idchudautu": 1109
+ },
+ {
+  "id_coso": 1907,
+  "idchudautu": 1110
+ },
+ {
+  "id_coso": 1909,
+  "idchudautu": 1112
+ },
+ {
+  "id_coso": 1910,
+  "idchudautu": 1113
+ },
+ {
+  "id_coso": 1911,
+  "idchudautu": 1114
+ },
+ {
+  "id_coso": 1912,
+  "idchudautu": 1115
+ },
+ {
+  "id_coso": 1913,
+  "idchudautu": 1116
+ },
+ {
+  "id_coso": 1914,
+  "idchudautu": 1117
+ },
+ {
+  "id_coso": 1917,
+  "idchudautu": 1120
+ },
+ {
+  "id_coso": 1918,
+  "idchudautu": 1121
+ },
+ {
+  "id_coso": 1919,
+  "idchudautu": 1122
+ },
+ {
+  "id_coso": 1920,
+  "idchudautu": 1123
+ },
+ {
+  "id_coso": 1921,
+  "idchudautu": 1124
+ },
+ {
+  "id_coso": 1922,
+  "idchudautu": 1125
+ },
+ {
+  "id_coso": 1923,
+  "idchudautu": 1125
+ },
+ {
+  "id_coso": 1924,
+  "idchudautu": 1126
+ },
+ {
+  "id_coso": 1925,
+  "idchudautu": 1127
+ },
+ {
+  "id_coso": 1926,
+  "idchudautu": 1128
+ },
+ {
+  "id_coso": 1928,
+  "idchudautu": 1129
+ },
+ {
+  "id_coso": 1929,
+  "idchudautu": 1129
+ },
+ {
+  "id_coso": 1930,
+  "idchudautu": 1129
+ },
+ {
+  "id_coso": 1931,
+  "idchudautu": 1130
+ },
+ {
+  "id_coso": 1932,
+  "idchudautu": 1131
+ },
+ {
+  "id_coso": 1933,
+  "idchudautu": 1132
+ },
+ {
+  "id_coso": 1934,
+  "idchudautu": 1133
+ },
+ {
+  "id_coso": 2002,
+  "idchudautu": 2002
+ },
+ {
+  "id_coso": 2003,
+  "idchudautu": 2003
+ },
+ {
+  "id_coso": 2004,
+  "idchudautu": 2004
+ },
+ {
+  "id_coso": 2005,
+  "idchudautu": 2005
+ },
+ {
+  "id_coso": 2006,
+  "idchudautu": 2006
+ },
+ {
+  "id_coso": 2007,
+  "idchudautu": 2007
+ },
+ {
+  "id_coso": 2008,
+  "idchudautu": 2008
+ },
+ {
+  "id_coso": 2009,
+  "idchudautu": 2009
+ },
+ {
+  "id_coso": 2010,
+  "idchudautu": 2010
+ },
+ {
+  "id_coso": 2011,
+  "idchudautu": 2011
+ },
+ {
+  "id_coso": 2012,
+  "idchudautu": 2012
+ },
+ {
+  "id_coso": 2013,
+  "idchudautu": 2013
+ },
+ {
+  "id_coso": 2014,
+  "idchudautu": 2014
+ },
+ {
+  "id_coso": 2015,
+  "idchudautu": 2015
+ },
+ {
+  "id_coso": 2016,
+  "idchudautu": 2016
+ },
+ {
+  "id_coso": 2017,
+  "idchudautu": 2017
+ },
+ {
+  "id_coso": 2018,
+  "idchudautu": 2018
+ },
+ {
+  "id_coso": 2019,
+  "idchudautu": 2019
+ },
+ {
+  "id_coso": 2020,
+  "idchudautu": 2020
+ },
+ {
+  "id_coso": 2022,
+  "idchudautu": 2021
+ },
+ {
+  "id_coso": 2023,
+  "idchudautu": 2021
+ },
+ {
+  "id_coso": 2024,
+  "idchudautu": 2022
+ },
+ {
+  "id_coso": 2025,
+  "idchudautu": 2023
+ },
+ {
+  "id_coso": 2026,
+  "idchudautu": 2024
+ },
+ {
+  "id_coso": 2027,
+  "idchudautu": 2025
+ },
+ {
+  "id_coso": 2028,
+  "idchudautu": 2026
+ },
+ {
+  "id_coso": 2030,
+  "idchudautu": 2027
+ },
+ {
+  "id_coso": 2031,
+  "idchudautu": 2027
+ },
+ {
+  "id_coso": 2032,
+  "idchudautu": 2027
+ },
+ {
+  "id_coso": 2033,
+  "idchudautu": 2028
+ },
+ {
+  "id_coso": 2034,
+  "idchudautu": 2029
+ },
+ {
+  "id_coso": 2035,
+  "idchudautu": 2032
+ },
+ {
+  "id_coso": 2036,
+  "idchudautu": 2033
+ },
+ {
+  "id_coso": 2037,
+  "idchudautu": 2034
+ },
+ {
+  "id_coso": 2038,
+  "idchudautu": 2035
+ },
+ {
+  "id_coso": 2039,
+  "idchudautu": 2036
+ },
+ {
+  "id_coso": 2040,
+  "idchudautu": 2037
+ },
+ {
+  "id_coso": 2041,
+  "idchudautu": 2038
+ },
+ {
+  "id_coso": 2042,
+  "idchudautu": 2039
+ },
+ {
+  "id_coso": 2043,
+  "idchudautu": 2042
+ },
+ {
+  "id_coso": 2044,
+  "idchudautu": 2045
+ },
+ {
+  "id_coso": 2045,
+  "idchudautu": 2046
+ },
+ {
+  "id_coso": 2046,
+  "idchudautu": 2047
+ },
+ {
+  "id_coso": 2047,
+  "idchudautu": 2048
+ },
+ {
+  "id_coso": 2048,
+  "idchudautu": 2049
+ },
+ {
+  "id_coso": 2049,
+  "idchudautu": 2050
+ },
+ {
+  "id_coso": 2050,
+  "idchudautu": 2051
+ },
+ {
+  "id_coso": 2051,
+  "idchudautu": 2052
+ },
+ {
+  "id_coso": 2053,
+  "idchudautu": 2053
+ },
+ {
+  "id_coso": 2054,
+  "idchudautu": 2053
+ },
+ {
+  "id_coso": 2055,
+  "idchudautu": 2053
+ },
+ {
+  "id_coso": 2056,
+  "idchudautu": 2054
+ },
+ {
+  "id_coso": 2057,
+  "idchudautu": 2055
+ },
+ {
+  "id_coso": 2059,
+  "idchudautu": 2056
+ },
+ {
+  "id_coso": 2060,
+  "idchudautu": 2056
+ },
+ {
+  "id_coso": 2062,
+  "idchudautu": 2057
+ },
+ {
+  "id_coso": 2063,
+  "idchudautu": 2059
+ },
+ {
+  "id_coso": 2064,
+  "idchudautu": 2061
+ },
+ {
+  "id_coso": 2065,
+  "idchudautu": 2062
+ },
+ {
+  "id_coso": 2067,
+  "idchudautu": 2063
+ },
+ {
+  "id_coso": 2068,
+  "idchudautu": 2064
+ },
+ {
+  "id_coso": 2069,
+  "idchudautu": 2065
+ },
+ {
+  "id_coso": 2070,
+  "idchudautu": 2067
+ },
+ {
+  "id_coso": 2071,
+  "idchudautu": 2068
+ },
+ {
+  "id_coso": 2072,
+  "idchudautu": 2069
+ },
+ {
+  "id_coso": 2073,
+  "idchudautu": 2070
+ },
+ {
+  "id_coso": 2074,
+  "idchudautu": 2071
+ },
+ {
+  "id_coso": 2075,
+  "idchudautu": 2072
+ },
+ {
+  "id_coso": 2076,
+  "idchudautu": 2073
+ },
+ {
+  "id_coso": 2077,
+  "idchudautu": 2074
+ },
+ {
+  "id_coso": 2078,
+  "idchudautu": 2076
+ },
+ {
+  "id_coso": 2079,
+  "idchudautu": 2077
+ },
+ {
+  "id_coso": 2080,
+  "idchudautu": 2078
+ },
+ {
+  "id_coso": 2081,
+  "idchudautu": 2079
+ },
+ {
+  "id_coso": 2082,
+  "idchudautu": 2080
+ },
+ {
+  "id_coso": 2083,
+  "idchudautu": 2081
+ },
+ {
+  "id_coso": 2084,
+  "idchudautu": 2082
+ },
+ {
+  "id_coso": 2085,
+  "idchudautu": 2083
+ },
+ {
+  "id_coso": 2086,
+  "idchudautu": 2084
+ },
+ {
+  "id_coso": 2087,
+  "idchudautu": 2085
+ },
+ {
+  "id_coso": 2088,
+  "idchudautu": 2086
+ },
+ {
+  "id_coso": 2089,
+  "idchudautu": 2087
+ },
+ {
+  "id_coso": 2090,
+  "idchudautu": 2088
+ },
+ {
+  "id_coso": 2091,
+  "idchudautu": 2089
+ },
+ {
+  "id_coso": 2092,
+  "idchudautu": 2090
+ },
+ {
+  "id_coso": 2093,
+  "idchudautu": 2091
+ },
+ {
+  "id_coso": 2094,
+  "idchudautu": 2092
+ },
+ {
+  "id_coso": 2096,
+  "idchudautu": 2094
+ },
+ {
+  "id_coso": 2097,
+  "idchudautu": 2095
+ },
+ {
+  "id_coso": 2098,
+  "idchudautu": 2096
+ },
+ {
+  "id_coso": 2099,
+  "idchudautu": 2101
+ },
+ {
+  "id_coso": 2100,
+  "idchudautu": 2102
+ },
+ {
+  "id_coso": 2101,
+  "idchudautu": 2103
+ },
+ {
+  "id_coso": 2102,
+  "idchudautu": 2104
+ },
+ {
+  "id_coso": 2103,
+  "idchudautu": 2105
+ },
+ {
+  "id_coso": 2104,
+  "idchudautu": 2106
+ },
+ {
+  "id_coso": 2105,
+  "idchudautu": 2107
+ },
+ {
+  "id_coso": 2106,
+  "idchudautu": 2108
+ },
+ {
+  "id_coso": 2107,
+  "idchudautu": 2109
+ },
+ {
+  "id_coso": 2108,
+  "idchudautu": 2110
+ },
+ {
+  "id_coso": 2109,
+  "idchudautu": 2111
+ },
+ {
+  "id_coso": 2110,
+  "idchudautu": 2112
+ },
+ {
+  "id_coso": 2111,
+  "idchudautu": 2113
+ },
+ {
+  "id_coso": 2112,
+  "idchudautu": 2114
+ },
+ {
+  "id_coso": 2113,
+  "idchudautu": 2115
+ },
+ {
+  "id_coso": 2115,
+  "idchudautu": 2116
+ },
+ {
+  "id_coso": 2116,
+  "idchudautu": 2116
+ },
+ {
+  "id_coso": 2118,
+  "idchudautu": 2117
+ },
+ {
+  "id_coso": 2119,
+  "idchudautu": 2118
+ },
+ {
+  "id_coso": 2120,
+  "idchudautu": 2119
+ },
+ {
+  "id_coso": 2121,
+  "idchudautu": 2120
+ },
+ {
+  "id_coso": 2122,
+  "idchudautu": 2121
+ },
+ {
+  "id_coso": 2123,
+  "idchudautu": 2122
+ },
+ {
+  "id_coso": 2124,
+  "idchudautu": 2123
+ },
+ {
+  "id_coso": 2125,
+  "idchudautu": 2124
+ },
+ {
+  "id_coso": 2126,
+  "idchudautu": 2125
+ },
+ {
+  "id_coso": 2127,
+  "idchudautu": 2126
+ },
+ {
+  "id_coso": 2128,
+  "idchudautu": 2127
+ },
+ {
+  "id_coso": 2129,
+  "idchudautu": 2128
+ },
+ {
+  "id_coso": 2130,
+  "idchudautu": 2129
+ },
+ {
+  "id_coso": 2131,
+  "idchudautu": 2130
+ },
+ {
+  "id_coso": 2132,
+  "idchudautu": 2131
+ },
+ {
+  "id_coso": 2133,
+  "idchudautu": 2132
+ },
+ {
+  "id_coso": 2134,
+  "idchudautu": 2133
+ },
+ {
+  "id_coso": 2135,
+  "idchudautu": 2134
+ },
+ {
+  "id_coso": 2136,
+  "idchudautu": 2135
+ },
+ {
+  "id_coso": 2138,
+  "idchudautu": 2137
+ },
+ {
+  "id_coso": 2139,
+  "idchudautu": 2138
+ },
+ {
+  "id_coso": 2140,
+  "idchudautu": 2139
+ },
+ {
+  "id_coso": 2141,
+  "idchudautu": 2140
+ },
+ {
+  "id_coso": 2142,
+  "idchudautu": 2141
+ },
+ {
+  "id_coso": 2143,
+  "idchudautu": 2142
+ },
+ {
+  "id_coso": 2144,
+  "idchudautu": 2143
+ },
+ {
+  "id_coso": 2146,
+  "idchudautu": 2145
+ },
+ {
+  "id_coso": 2147,
+  "idchudautu": 2147
+ },
+ {
+  "id_coso": 2148,
+  "idchudautu": 2148
+ },
+ {
+  "id_coso": 2149,
+  "idchudautu": 2149
+ },
+ {
+  "id_coso": 2150,
+  "idchudautu": 2150
+ },
+ {
+  "id_coso": 2151,
+  "idchudautu": 2151
+ },
+ {
+  "id_coso": 2152,
+  "idchudautu": 2152
+ },
+ {
+  "id_coso": 2153,
+  "idchudautu": 2153
+ },
+ {
+  "id_coso": 2154,
+  "idchudautu": 2155
+ },
+ {
+  "id_coso": 2155,
+  "idchudautu": 2156
+ },
+ {
+  "id_coso": 2156,
+  "idchudautu": 2157
+ },
+ {
+  "id_coso": 2157,
+  "idchudautu": 2158
+ },
+ {
+  "id_coso": 2159,
+  "idchudautu": 2159
+ },
+ {
+  "id_coso": 2160,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2162,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2164,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2168,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2169,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2170,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2171,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2172,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2173,
+  "idchudautu": 2160
+ },
+ {
+  "id_coso": 2161,
+  "idchudautu": 2161
+ },
+ {
+  "id_coso": 2163,
+  "idchudautu": 2162
+ },
+ {
+  "id_coso": 2166,
+  "idchudautu": 2163
+ },
+ {
+  "id_coso": 2167,
+  "idchudautu": 2163
+ },
+ {
+  "id_coso": 2175,
+  "idchudautu": 2164
+ },
+ {
+  "id_coso": 2177,
+  "idchudautu": 2165
+ },
+ {
+  "id_coso": 2178,
+  "idchudautu": 2166
+ },
+ {
+  "id_coso": 2180,
+  "idchudautu": 2167
+ },
+ {
+  "id_coso": 2182,
+  "idchudautu": 2168
+ },
+ {
+  "id_coso": 2183,
+  "idchudautu": 2170
+ },
+ {
+  "id_coso": 2184,
+  "idchudautu": 2171
+ },
+ {
+  "id_coso": 2185,
+  "idchudautu": 2172
+ },
+ {
+  "id_coso": 2186,
+  "idchudautu": 2173
+ },
+ {
+  "id_coso": 2187,
+  "idchudautu": 2174
+ },
+ {
+  "id_coso": 2188,
+  "idchudautu": 2175
+ },
+ {
+  "id_coso": 2189,
+  "idchudautu": 2176
+ },
+ {
+  "id_coso": 2190,
+  "idchudautu": 2177
+ },
+ {
+  "id_coso": 2192,
+  "idchudautu": 2178
+ },
+ {
+  "id_coso": 2195,
+  "idchudautu": 2180
+ },
+ {
+  "id_coso": 2196,
+  "idchudautu": 2181
+ },
+ {
+  "id_coso": 2197,
+  "idchudautu": 2182
+ },
+ {
+  "id_coso": 2193,
+  "idchudautu": 2183
+ },
+ {
+  "id_coso": 2200,
+  "idchudautu": 2184
+ },
+ {
+  "id_coso": 2201,
+  "idchudautu": 2184
+ },
+ {
+  "id_coso": 2202,
+  "idchudautu": 2185
+ },
+ {
+  "id_coso": 2204,
+  "idchudautu": 2186
+ },
+ {
+  "id_coso": 2205,
+  "idchudautu": 2186
+ },
+ {
+  "id_coso": 2206,
+  "idchudautu": 2187
+ },
+ {
+  "id_coso": 2207,
+  "idchudautu": 2188
+ },
+ {
+  "id_coso": 2208,
+  "idchudautu": 2189
+ },
+ {
+  "id_coso": 2209,
+  "idchudautu": 2190
+ },
+ {
+  "id_coso": 2210,
+  "idchudautu": 2191
+ },
+ {
+  "id_coso": 2213,
+  "idchudautu": 2193
+ },
+ {
+  "id_coso": 2214,
+  "idchudautu": 2193
+ },
+ {
+  "id_coso": 2215,
+  "idchudautu": 2194
+ },
+ {
+  "id_coso": 2216,
+  "idchudautu": 2195
+ },
+ {
+  "id_coso": 2217,
+  "idchudautu": 2195
+ },
+ {
+  "id_coso": 2218,
+  "idchudautu": 2196
+ },
+ {
+  "id_coso": 2219,
+  "idchudautu": 2197
+ },
+ {
+  "id_coso": 3001,
+  "idchudautu": 3001
+ },
+ {
+  "id_coso": 3002,
+  "idchudautu": 3002
+ },
+ {
+  "id_coso": 3004,
+  "idchudautu": 3004
+ },
+ {
+  "id_coso": 3005,
+  "idchudautu": 3005
+ },
+ {
+  "id_coso": 3006,
+  "idchudautu": 3006
+ },
+ {
+  "id_coso": 3007,
+  "idchudautu": 3007
+ },
+ {
+  "id_coso": 3008,
+  "idchudautu": 3008
+ },
+ {
+  "id_coso": 3009,
+  "idchudautu": 3009
+ },
+ {
+  "id_coso": 3010,
+  "idchudautu": 3010
+ },
+ {
+  "id_coso": 3011,
+  "idchudautu": 3011
+ },
+ {
+  "id_coso": 3012,
+  "idchudautu": 3012
+ },
+ {
+  "id_coso": 3013,
+  "idchudautu": 3013
+ },
+ {
+  "id_coso": 3014,
+  "idchudautu": 3014
+ },
+ {
+  "id_coso": 3018,
+  "idchudautu": 3018
+ },
+ {
+  "id_coso": 3019,
+  "idchudautu": 3019
+ },
+ {
+  "id_coso": 3020,
+  "idchudautu": 3020
+ },
+ {
+  "id_coso": 3021,
+  "idchudautu": 3021
+ },
+ {
+  "id_coso": 3022,
+  "idchudautu": 3022
+ },
+ {
+  "id_coso": 3023,
+  "idchudautu": 3023
+ },
+ {
+  "id_coso": 3024,
+  "idchudautu": 3024
+ },
+ {
+  "id_coso": 3025,
+  "idchudautu": 3025
+ },
+ {
+  "id_coso": 3026,
+  "idchudautu": 3026
+ },
+ {
+  "id_coso": 3028,
+  "idchudautu": 3027
+ },
+ {
+  "id_coso": 3029,
+  "idchudautu": 3027
+ },
+ {
+  "id_coso": 3030,
+  "idchudautu": 3027
+ },
+ {
+  "id_coso": 3031,
+  "idchudautu": 3027
+ },
+ {
+  "id_coso": 3032,
+  "idchudautu": 3028
+ },
+ {
+  "id_coso": 3033,
+  "idchudautu": 3029
+ },
+ {
+  "id_coso": 3034,
+  "idchudautu": 3030
+ },
+ {
+  "id_coso": 3035,
+  "idchudautu": 3031
+ },
+ {
+  "id_coso": 3036,
+  "idchudautu": 3032
+ },
+ {
+  "id_coso": 3037,
+  "idchudautu": 3033
+ },
+ {
+  "id_coso": 3038,
+  "idchudautu": 3034
+ },
+ {
+  "id_coso": 3039,
+  "idchudautu": 3035
+ },
+ {
+  "id_coso": 3040,
+  "idchudautu": 3036
+ },
+ {
+  "id_coso": 3041,
+  "idchudautu": 3037
+ },
+ {
+  "id_coso": 3042,
+  "idchudautu": 3038
+ },
+ {
+  "id_coso": 3043,
+  "idchudautu": 3039
+ },
+ {
+  "id_coso": 3044,
+  "idchudautu": 3040
+ },
+ {
+  "id_coso": 3045,
+  "idchudautu": 3041
+ },
+ {
+  "id_coso": 3046,
+  "idchudautu": 3042
+ },
+ {
+  "id_coso": 3047,
+  "idchudautu": 3043
+ },
+ {
+  "id_coso": 3048,
+  "idchudautu": 3044
+ },
+ {
+  "id_coso": 3049,
+  "idchudautu": 3045
+ },
+ {
+  "id_coso": 3050,
+  "idchudautu": 3046
+ },
+ {
+  "id_coso": 3052,
+  "idchudautu": 3047
+ },
+ {
+  "id_coso": 3053,
+  "idchudautu": 3047
+ },
+ {
+  "id_coso": 3056,
+  "idchudautu": 3049
+ },
+ {
+  "id_coso": 3057,
+  "idchudautu": 3049
+ },
+ {
+  "id_coso": 3058,
+  "idchudautu": 3049
+ },
+ {
+  "id_coso": 3062,
+  "idchudautu": 3051
+ },
+ {
+  "id_coso": 3063,
+  "idchudautu": 3051
+ },
+ {
+  "id_coso": 3064,
+  "idchudautu": 3052
+ },
+ {
+  "id_coso": 3065,
+  "idchudautu": 3053
+ },
+ {
+  "id_coso": 3066,
+  "idchudautu": 3054
+ },
+ {
+  "id_coso": 3067,
+  "idchudautu": 3054
+ },
+ {
+  "id_coso": 3068,
+  "idchudautu": 3055
+ },
+ {
+  "id_coso": 3069,
+  "idchudautu": 3056
+ },
+ {
+  "id_coso": 3070,
+  "idchudautu": 3056
+ },
+ {
+  "id_coso": 3071,
+  "idchudautu": 3057
+ },
+ {
+  "id_coso": 3072,
+  "idchudautu": 3057
+ },
+ {
+  "id_coso": 3073,
+  "idchudautu": 3057
+ },
+ {
+  "id_coso": 3074,
+  "idchudautu": 3058
+ },
+ {
+  "id_coso": 3075,
+  "idchudautu": 3059
+ },
+ {
+  "id_coso": 3076,
+  "idchudautu": 3060
+ },
+ {
+  "id_coso": 3077,
+  "idchudautu": 3060
+ },
+ {
+  "id_coso": 3078,
+  "idchudautu": 3061
+ },
+ {
+  "id_coso": 3080,
+  "idchudautu": 3062
+ },
+ {
+  "id_coso": 3081,
+  "idchudautu": 3063
+ },
+ {
+  "id_coso": 3082,
+  "idchudautu": 3064
+ },
+ {
+  "id_coso": 3083,
+  "idchudautu": 3065
+ },
+ {
+  "id_coso": 3085,
+  "idchudautu": 3066
+ },
+ {
+  "id_coso": 3086,
+  "idchudautu": 3066
+ },
+ {
+  "id_coso": 3088,
+  "idchudautu": 3067
+ },
+ {
+  "id_coso": 3089,
+  "idchudautu": 3068
+ },
+ {
+  "id_coso": 3090,
+  "idchudautu": 3069
+ },
+ {
+  "id_coso": 3092,
+  "idchudautu": 3070
+ },
+ {
+  "id_coso": 3093,
+  "idchudautu": 3070
+ },
+ {
+  "id_coso": 3103,
+  "idchudautu": 3076
+ },
+ {
+  "id_coso": 3104,
+  "idchudautu": 3077
+ },
+ {
+  "id_coso": 3105,
+  "idchudautu": 3078
+ },
+ {
+  "id_coso": 3106,
+  "idchudautu": 3079
+ },
+ {
+  "id_coso": 3107,
+  "idchudautu": 3080
+ },
+ {
+  "id_coso": 3108,
+  "idchudautu": 3081
+ },
+ {
+  "id_coso": 3109,
+  "idchudautu": 3082
+ },
+ {
+  "id_coso": 3110,
+  "idchudautu": 3083
+ },
+ {
+  "id_coso": 3111,
+  "idchudautu": 3084
+ },
+ {
+  "id_coso": 3112,
+  "idchudautu": 3085
+ },
+ {
+  "id_coso": 3113,
+  "idchudautu": 3086
+ },
+ {
+  "id_coso": 3114,
+  "idchudautu": 3087
+ },
+ {
+  "id_coso": 3115,
+  "idchudautu": 3088
+ },
+ {
+  "id_coso": 3116,
+  "idchudautu": 3089
+ },
+ {
+  "id_coso": 3117,
+  "idchudautu": 3090
+ },
+ {
+  "id_coso": 3118,
+  "idchudautu": 3091
+ },
+ {
+  "id_coso": 3119,
+  "idchudautu": 3092
+ },
+ {
+  "id_coso": 3120,
+  "idchudautu": 3093
+ },
+ {
+  "id_coso": 3121,
+  "idchudautu": 3093
+ },
+ {
+  "id_coso": 3122,
+  "idchudautu": 3094
+ },
+ {
+  "id_coso": 3123,
+  "idchudautu": 3095
+ },
+ {
+  "id_coso": 3124,
+  "idchudautu": 3096
+ },
+ {
+  "id_coso": 3125,
+  "idchudautu": 3097
+ },
+ {
+  "id_coso": 3127,
+  "idchudautu": 3099
+ },
+ {
+  "id_coso": 3128,
+  "idchudautu": 3100
+ },
+ {
+  "id_coso": 3130,
+  "idchudautu": 3102
+ },
+ {
+  "id_coso": 3131,
+  "idchudautu": 3103
+ },
+ {
+  "id_coso": 3132,
+  "idchudautu": 3103
+ },
+ {
+  "id_coso": 3134,
+  "idchudautu": 3105
+ },
+ {
+  "id_coso": 3137,
+  "idchudautu": 3108
+ },
+ {
+  "id_coso": 3141,
+  "idchudautu": 3111
+ },
+ {
+  "id_coso": 3142,
+  "idchudautu": 3112
+ },
+ {
+  "id_coso": 3143,
+  "idchudautu": 3113
+ },
+ {
+  "id_coso": 3144,
+  "idchudautu": 3114
+ },
+ {
+  "id_coso": 3145,
+  "idchudautu": 3115
+ },
+ {
+  "id_coso": 3146,
+  "idchudautu": 3116
+ },
+ {
+  "id_coso": 3147,
+  "idchudautu": 3117
+ },
+ {
+  "id_coso": 3148,
+  "idchudautu": 3118
+ },
+ {
+  "id_coso": 3149,
+  "idchudautu": 3119
+ },
+ {
+  "id_coso": 3150,
+  "idchudautu": 3120
+ },
+ {
+  "id_coso": 3151,
+  "idchudautu": 3121
+ },
+ {
+  "id_coso": 3152,
+  "idchudautu": 3121
+ },
+ {
+  "id_coso": 3153,
+  "idchudautu": 3122
+ },
+ {
+  "id_coso": 3154,
+  "idchudautu": 3123
+ },
+ {
+  "id_coso": 3155,
+  "idchudautu": 3124
+ },
+ {
+  "id_coso": 3156,
+  "idchudautu": 3125
+ },
+ {
+  "id_coso": 3157,
+  "idchudautu": 3126
+ },
+ {
+  "id_coso": 3158,
+  "idchudautu": 3127
+ },
+ {
+  "id_coso": 3159,
+  "idchudautu": 3128
+ },
+ {
+  "id_coso": 3161,
+  "idchudautu": 3129
+ },
+ {
+  "id_coso": 3162,
+  "idchudautu": 3131
+ },
+ {
+  "id_coso": 3171,
+  "idchudautu": 3140
+ },
+ {
+  "id_coso": 3173,
+  "idchudautu": 3142
+ },
+ {
+  "id_coso": 3176,
+  "idchudautu": 3144
+ },
+ {
+  "id_coso": 3177,
+  "idchudautu": 3145
+ },
+ {
+  "id_coso": 3178,
+  "idchudautu": 3146
+ },
+ {
+  "id_coso": 3180,
+  "idchudautu": 3148
+ },
+ {
+  "id_coso": 3182,
+  "idchudautu": 3150
+ },
+ {
+  "id_coso": 3184,
+  "idchudautu": 3151
+ },
+ {
+  "id_coso": 3186,
+  "idchudautu": 3152
+ },
+ {
+  "id_coso": 3188,
+  "idchudautu": 3153
+ },
+ {
+  "id_coso": 3190,
+  "idchudautu": 3154
+ },
+ {
+  "id_coso": 3192,
+  "idchudautu": 3155
+ },
+ {
+  "id_coso": 3193,
+  "idchudautu": 3156
+ },
+ {
+  "id_coso": 3195,
+  "idchudautu": 3157
+ },
+ {
+  "id_coso": 3197,
+  "idchudautu": 3158
+ },
+ {
+  "id_coso": 3198,
+  "idchudautu": 3159
+ },
+ {
+  "id_coso": 3200,
+  "idchudautu": 3160
+ },
+ {
+  "id_coso": 3201,
+  "idchudautu": 3161
+ },
+ {
+  "id_coso": 3202,
+  "idchudautu": 3162
+ },
+ {
+  "id_coso": 3203,
+  "idchudautu": 3163
+ },
+ {
+  "id_coso": 3204,
+  "idchudautu": 3164
+ },
+ {
+  "id_coso": 3205,
+  "idchudautu": 3165
+ },
+ {
+  "id_coso": 4001,
+  "idchudautu": 4001
+ },
+ {
+  "id_coso": 4002,
+  "idchudautu": 4002
+ },
+ {
+  "id_coso": 4003,
+  "idchudautu": 4003
+ },
+ {
+  "id_coso": 4004,
+  "idchudautu": 4004
+ },
+ {
+  "id_coso": 4005,
+  "idchudautu": 4005
+ },
+ {
+  "id_coso": 4006,
+  "idchudautu": 4006
+ },
+ {
+  "id_coso": 4007,
+  "idchudautu": 4007
+ },
+ {
+  "id_coso": 4008,
+  "idchudautu": 4008
+ },
+ {
+  "id_coso": 4009,
+  "idchudautu": 4009
+ },
+ {
+  "id_coso": 4010,
+  "idchudautu": 4010
+ },
+ {
+  "id_coso": 4011,
+  "idchudautu": 4011
+ },
+ {
+  "id_coso": 4012,
+  "idchudautu": 4012
+ },
+ {
+  "id_coso": 4013,
+  "idchudautu": 4013
+ },
+ {
+  "id_coso": 4014,
+  "idchudautu": 4014
+ },
+ {
+  "id_coso": 4015,
+  "idchudautu": 4015
+ },
+ {
+  "id_coso": 4016,
+  "idchudautu": 4016
+ },
+ {
+  "id_coso": 4017,
+  "idchudautu": 4016
+ },
+ {
+  "id_coso": 4018,
+  "idchudautu": 4017
+ },
+ {
+  "id_coso": 4019,
+  "idchudautu": 4018
+ },
+ {
+  "id_coso": 4020,
+  "idchudautu": 4019
+ },
+ {
+  "id_coso": 4021,
+  "idchudautu": 4020
+ },
+ {
+  "id_coso": 4022,
+  "idchudautu": 4021
+ },
+ {
+  "id_coso": 4024,
+  "idchudautu": 4022
+ },
+ {
+  "id_coso": 4025,
+  "idchudautu": 4023
+ },
+ {
+  "id_coso": 4026,
+  "idchudautu": 4024
+ },
+ {
+  "id_coso": 4028,
+  "idchudautu": 4025
+ },
+ {
+  "id_coso": 4029,
+  "idchudautu": 4026
+ },
+ {
+  "id_coso": 4030,
+  "idchudautu": 4027
+ },
+ {
+  "id_coso": 1075,
+  "idchudautu": 4028
+ },
+ {
+  "id_coso": 4032,
+  "idchudautu": 4029
+ },
+ {
+  "id_coso": 4033,
+  "idchudautu": 4030
+ },
+ {
+  "id_coso": 4034,
+  "idchudautu": 4031
+ },
+ {
+  "id_coso": 4035,
+  "idchudautu": 4032
+ },
+ {
+  "id_coso": 4036,
+  "idchudautu": 4033
+ },
+ {
+  "id_coso": 4037,
+  "idchudautu": 4034
+ },
+ {
+  "id_coso": 4038,
+  "idchudautu": 4035
+ },
+ {
+  "id_coso": 4039,
+  "idchudautu": 4036
+ },
+ {
+  "id_coso": 4040,
+  "idchudautu": 4037
+ },
+ {
+  "id_coso": 4042,
+  "idchudautu": 4039
+ },
+ {
+  "id_coso": 4043,
+  "idchudautu": 4040
+ },
+ {
+  "id_coso": 4044,
+  "idchudautu": 4041
+ },
+ {
+  "id_coso": 4045,
+  "idchudautu": 4042
+ },
+ {
+  "id_coso": 4046,
+  "idchudautu": 4043
+ },
+ {
+  "id_coso": 4047,
+  "idchudautu": 4044
+ },
+ {
+  "id_coso": 4048,
+  "idchudautu": 4045
+ },
+ {
+  "id_coso": 4050,
+  "idchudautu": 4046
+ },
+ {
+  "id_coso": 4051,
+  "idchudautu": 4046
+ },
+ {
+  "id_coso": 4052,
+  "idchudautu": 4047
+ },
+ {
+  "id_coso": 4053,
+  "idchudautu": 4048
+ },
+ {
+  "id_coso": 4054,
+  "idchudautu": 4049
+ },
+ {
+  "id_coso": 4055,
+  "idchudautu": 4050
+ },
+ {
+  "id_coso": 4056,
+  "idchudautu": 4050
+ },
+ {
+  "id_coso": 4058,
+  "idchudautu": 4052
+ },
+ {
+  "id_coso": 4059,
+  "idchudautu": 4053
+ },
+ {
+  "id_coso": 4060,
+  "idchudautu": 4054
+ },
+ {
+  "id_coso": 4061,
+  "idchudautu": 4055
+ },
+ {
+  "id_coso": 4062,
+  "idchudautu": 4056
+ },
+ {
+  "id_coso": 4063,
+  "idchudautu": 4057
+ },
+ {
+  "id_coso": 4064,
+  "idchudautu": 4058
+ },
+ {
+  "id_coso": 4065,
+  "idchudautu": 4059
+ },
+ {
+  "id_coso": 4066,
+  "idchudautu": 4060
+ },
+ {
+  "id_coso": 4067,
+  "idchudautu": 4061
+ },
+ {
+  "id_coso": 4068,
+  "idchudautu": 4062
+ },
+ {
+  "id_coso": 4069,
+  "idchudautu": 4063
+ },
+ {
+  "id_coso": 4070,
+  "idchudautu": 4064
+ },
+ {
+  "id_coso": 4071,
+  "idchudautu": 4065
+ },
+ {
+  "id_coso": 4072,
+  "idchudautu": 4066
+ },
+ {
+  "id_coso": 4073,
+  "idchudautu": 4067
+ },
+ {
+  "id_coso": 4074,
+  "idchudautu": 4068
+ },
+ {
+  "id_coso": 4075,
+  "idchudautu": 4069
+ },
+ {
+  "id_coso": 4076,
+  "idchudautu": 4070
+ },
+ {
+  "id_coso": 4077,
+  "idchudautu": 4071
+ },
+ {
+  "id_coso": 4078,
+  "idchudautu": 4072
+ },
+ {
+  "id_coso": 4079,
+  "idchudautu": 4072
+ },
+ {
+  "id_coso": 4080,
+  "idchudautu": 4073
+ },
+ {
+  "id_coso": 4081,
+  "idchudautu": 4074
+ },
+ {
+  "id_coso": 4082,
+  "idchudautu": 4074
+ },
+ {
+  "id_coso": 4083,
+  "idchudautu": 4075
+ },
+ {
+  "id_coso": 4084,
+  "idchudautu": 4076
+ },
+ {
+  "id_coso": 4087,
+  "idchudautu": 4079
+ },
+ {
+  "id_coso": 4088,
+  "idchudautu": 4080
+ },
+ {
+  "id_coso": 4089,
+  "idchudautu": 4081
+ },
+ {
+  "id_coso": 4092,
+  "idchudautu": 4083
+ },
+ {
+  "id_coso": 4093,
+  "idchudautu": 4084
+ },
+ {
+  "id_coso": 4094,
+  "idchudautu": 4085
+ },
+ {
+  "id_coso": 4095,
+  "idchudautu": 4086
+ },
+ {
+  "id_coso": 4096,
+  "idchudautu": 4087
+ },
+ {
+  "id_coso": 4097,
+  "idchudautu": 4088
+ },
+ {
+  "id_coso": 4098,
+  "idchudautu": 4089
+ },
+ {
+  "id_coso": 4099,
+  "idchudautu": 4090
+ },
+ {
+  "id_coso": 4100,
+  "idchudautu": 4091
+ },
+ {
+  "id_coso": 4101,
+  "idchudautu": 4092
+ },
+ {
+  "id_coso": 4102,
+  "idchudautu": 4093
+ },
+ {
+  "id_coso": 4103,
+  "idchudautu": 4094
+ },
+ {
+  "id_coso": 4104,
+  "idchudautu": 4094
+ },
+ {
+  "id_coso": 4106,
+  "idchudautu": 4095
+ },
+ {
+  "id_coso": 4107,
+  "idchudautu": 4096
+ },
+ {
+  "id_coso": 4108,
+  "idchudautu": 4097
+ },
+ {
+  "id_coso": 4109,
+  "idchudautu": 4098
+ },
+ {
+  "id_coso": 4110,
+  "idchudautu": 4099
+ },
+ {
+  "id_coso": 4111,
+  "idchudautu": 4100
+ },
+ {
+  "id_coso": 4112,
+  "idchudautu": 4101
+ },
+ {
+  "id_coso": 4113,
+  "idchudautu": 4101
+ },
+ {
+  "id_coso": 4114,
+  "idchudautu": 4102
+ },
+ {
+  "id_coso": 4115,
+  "idchudautu": 4103
+ },
+ {
+  "id_coso": 4116,
+  "idchudautu": 4104
+ },
+ {
+  "id_coso": 4117,
+  "idchudautu": 4105
+ },
+ {
+  "id_coso": 4118,
+  "idchudautu": 4105
+ },
+ {
+  "id_coso": 4120,
+  "idchudautu": 4106
+ },
+ {
+  "id_coso": 4121,
+  "idchudautu": 4107
+ },
+ {
+  "id_coso": 4122,
+  "idchudautu": 4108
+ },
+ {
+  "id_coso": 4123,
+  "idchudautu": 4109
+ },
+ {
+  "id_coso": 4124,
+  "idchudautu": 4110
+ },
+ {
+  "id_coso": 4125,
+  "idchudautu": 4111
+ },
+ {
+  "id_coso": 4126,
+  "idchudautu": 4112
+ },
+ {
+  "id_coso": 4128,
+  "idchudautu": 4114
+ },
+ {
+  "id_coso": 4134,
+  "idchudautu": 4120
+ },
+ {
+  "id_coso": 4135,
+  "idchudautu": 4121
+ },
+ {
+  "id_coso": 4137,
+  "idchudautu": 4122
+ },
+ {
+  "id_coso": 4138,
+  "idchudautu": 4122
+ },
+ {
+  "id_coso": 4139,
+  "idchudautu": 4123
+ },
+ {
+  "id_coso": 4140,
+  "idchudautu": 4123
+ },
+ {
+  "id_coso": 4141,
+  "idchudautu": 4124
+ },
+ {
+  "id_coso": 4142,
+  "idchudautu": 4125
+ },
+ {
+  "id_coso": 4143,
+  "idchudautu": 4126
+ },
+ {
+  "id_coso": 4144,
+  "idchudautu": 4127
+ },
+ {
+  "id_coso": 4145,
+  "idchudautu": 4128
+ },
+ {
+  "id_coso": 4146,
+  "idchudautu": 4129
+ },
+ {
+  "id_coso": 4147,
+  "idchudautu": 4130
+ },
+ {
+  "id_coso": 4148,
+  "idchudautu": 4131
+ },
+ {
+  "id_coso": 4149,
+  "idchudautu": 4132
+ },
+ {
+  "id_coso": 4150,
+  "idchudautu": 4133
+ },
+ {
+  "id_coso": 4151,
+  "idchudautu": 4134
+ },
+ {
+  "id_coso": 4152,
+  "idchudautu": 4135
+ },
+ {
+  "id_coso": 4153,
+  "idchudautu": 4136
+ },
+ {
+  "id_coso": 4154,
+  "idchudautu": 4137
+ },
+ {
+  "id_coso": 4156,
+  "idchudautu": 4139
+ },
+ {
+  "id_coso": 4157,
+  "idchudautu": 4140
+ },
+ {
+  "id_coso": 4158,
+  "idchudautu": 4141
+ },
+ {
+  "id_coso": 4159,
+  "idchudautu": 4142
+ },
+ {
+  "id_coso": 4160,
+  "idchudautu": 4143
+ },
+ {
+  "id_coso": 4161,
+  "idchudautu": 4144
+ },
+ {
+  "id_coso": 4162,
+  "idchudautu": 4145
+ },
+ {
+  "id_coso": 4163,
+  "idchudautu": 4146
+ },
+ {
+  "id_coso": 4164,
+  "idchudautu": 4147
+ },
+ {
+  "id_coso": 4165,
+  "idchudautu": 4148
+ },
+ {
+  "id_coso": 4166,
+  "idchudautu": 4148
+ },
+ {
+  "id_coso": 4167,
+  "idchudautu": 4148
+ },
+ {
+  "id_coso": 4168,
+  "idchudautu": 4148
+ },
+ {
+  "id_coso": 4169,
+  "idchudautu": 4149
+ },
+ {
+  "id_coso": 4170,
+  "idchudautu": 4150
+ },
+ {
+  "id_coso": 4171,
+  "idchudautu": 4151
+ },
+ {
+  "id_coso": 4172,
+  "idchudautu": 4152
+ },
+ {
+  "id_coso": 4173,
+  "idchudautu": 4153
+ },
+ {
+  "id_coso": 4175,
+  "idchudautu": 4154
+ },
+ {
+  "id_coso": 4176,
+  "idchudautu": 4154
+ },
+ {
+  "id_coso": 4177,
+  "idchudautu": 4155
+ },
+ {
+  "id_coso": 4178,
+  "idchudautu": 4156
+ },
+ {
+  "id_coso": 4179,
+  "idchudautu": 4157
+ },
+ {
+  "id_coso": 4180,
+  "idchudautu": 4158
+ },
+ {
+  "id_coso": 4181,
+  "idchudautu": 4159
+ },
+ {
+  "id_coso": 4182,
+  "idchudautu": 4160
+ },
+ {
+  "id_coso": 4183,
+  "idchudautu": 4161
+ },
+ {
+  "id_coso": 4184,
+  "idchudautu": 4162
+ },
+ {
+  "id_coso": 4185,
+  "idchudautu": 4162
+ },
+ {
+  "id_coso": 4186,
+  "idchudautu": 4163
+ },
+ {
+  "id_coso": 4187,
+  "idchudautu": 4164
+ },
+ {
+  "id_coso": 4188,
+  "idchudautu": 4165
+ },
+ {
+  "id_coso": 4189,
+  "idchudautu": 4166
+ },
+ {
+  "id_coso": 4190,
+  "idchudautu": 4167
+ },
+ {
+  "id_coso": 4191,
+  "idchudautu": 4168
+ },
+ {
+  "id_coso": 4192,
+  "idchudautu": 4169
+ },
+ {
+  "id_coso": 4193,
+  "idchudautu": 4170
+ },
+ {
+  "id_coso": 4194,
+  "idchudautu": 4171
+ },
+ {
+  "id_coso": 4195,
+  "idchudautu": 4172
+ },
+ {
+  "id_coso": 4196,
+  "idchudautu": 4173
+ },
+ {
+  "id_coso": 4197,
+  "idchudautu": 4174
+ },
+ {
+  "id_coso": 4198,
+  "idchudautu": 4174
+ },
+ {
+  "id_coso": 4199,
+  "idchudautu": 4175
+ },
+ {
+  "id_coso": 4200,
+  "idchudautu": 4176
+ },
+ {
+  "id_coso": 4201,
+  "idchudautu": 4177
+ },
+ {
+  "id_coso": 4202,
+  "idchudautu": 4178
+ },
+ {
+  "id_coso": 4203,
+  "idchudautu": 4179
+ },
+ {
+  "id_coso": 4204,
+  "idchudautu": 4180
+ },
+ {
+  "id_coso": 4205,
+  "idchudautu": 4181
+ },
+ {
+  "id_coso": 4206,
+  "idchudautu": 4182
+ },
+ {
+  "id_coso": 4207,
+  "idchudautu": 4183
+ },
+ {
+  "id_coso": 4210,
+  "idchudautu": 4185
+ },
+ {
+  "id_coso": 4211,
+  "idchudautu": 4186
+ },
+ {
+  "id_coso": 4212,
+  "idchudautu": 4187
+ },
+ {
+  "id_coso": 4213,
+  "idchudautu": 4188
+ },
+ {
+  "id_coso": 4214,
+  "idchudautu": 4189
+ },
+ {
+  "id_coso": 4215,
+  "idchudautu": 4190
+ },
+ {
+  "id_coso": 4216,
+  "idchudautu": 2020
+ },
+ {
+  "id_coso": 4218,
+  "idchudautu": 4192
+ },
+ {
+  "id_coso": 4219,
+  "idchudautu": 4192
+ },
+ {
+  "id_coso": 4220,
+  "idchudautu": 4192
+ },
+ {
+  "id_coso": 4221,
+  "idchudautu": 4192
+ },
+ {
+  "id_coso": 4222,
+  "idchudautu": 4193
+ },
+ {
+  "id_coso": 4223,
+  "idchudautu": 4194
+ },
+ {
+  "id_coso": 4224,
+  "idchudautu": 4195
+ },
+ {
+  "id_coso": 4225,
+  "idchudautu": 4196
+ },
+ {
+  "id_coso": 4226,
+  "idchudautu": 4197
+ },
+ {
+  "id_coso": 4227,
+  "idchudautu": 4198
+ },
+ {
+  "id_coso": 4228,
+  "idchudautu": 4199
+ },
+ {
+  "id_coso": 4229,
+  "idchudautu": 4200
+ },
+ {
+  "id_coso": 4230,
+  "idchudautu": 4201
+ },
+ {
+  "id_coso": 4232,
+  "idchudautu": 4202
+ },
+ {
+  "id_coso": 4233,
+  "idchudautu": 4202
+ },
+ {
+  "id_coso": 4234,
+  "idchudautu": 4202
+ },
+ {
+  "id_coso": 4235,
+  "idchudautu": 4202
+ },
+ {
+  "id_coso": 4236,
+  "idchudautu": 4203
+ },
+ {
+  "id_coso": 4237,
+  "idchudautu": 4204
+ },
+ {
+  "id_coso": 4238,
+  "idchudautu": 4205
+ },
+ {
+  "id_coso": 4239,
+  "idchudautu": 4206
+ },
+ {
+  "id_coso": 4240,
+  "idchudautu": 4207
+ },
+ {
+  "id_coso": 4241,
+  "idchudautu": 4208
+ },
+ {
+  "id_coso": 4243,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4244,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4245,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4246,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4247,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4248,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4249,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4250,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4251,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4252,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4253,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4254,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4255,
+  "idchudautu": 4209
+ },
+ {
+  "id_coso": 4256,
+  "idchudautu": 4210
+ },
+ {
+  "id_coso": 4257,
+  "idchudautu": 4211
+ },
+ {
+  "id_coso": 4258,
+  "idchudautu": 4212
+ },
+ {
+  "id_coso": 4259,
+  "idchudautu": 4213
+ },
+ {
+  "id_coso": 4260,
+  "idchudautu": 4214
+ },
+ {
+  "id_coso": 4261,
+  "idchudautu": 4215
+ },
+ {
+  "id_coso": 4262,
+  "idchudautu": 4216
+ },
+ {
+  "id_coso": 4264,
+  "idchudautu": 4217
+ },
+ {
+  "id_coso": 4265,
+  "idchudautu": 4217
+ },
+ {
+  "id_coso": 4266,
+  "idchudautu": 4218
+ },
+ {
+  "id_coso": 4267,
+  "idchudautu": 4219
+ },
+ {
+  "id_coso": 4268,
+  "idchudautu": 4220
+ },
+ {
+  "id_coso": 4269,
+  "idchudautu": 4221
+ },
+ {
+  "id_coso": 4270,
+  "idchudautu": 4222
+ },
+ {
+  "id_coso": 4271,
+  "idchudautu": 4223
+ },
+ {
+  "id_coso": 4272,
+  "idchudautu": 4224
+ },
+ {
+  "id_coso": 4273,
+  "idchudautu": 4225
+ },
+ {
+  "id_coso": 4274,
+  "idchudautu": 4226
+ },
+ {
+  "id_coso": 4276,
+  "idchudautu": 4227
+ },
+ {
+  "id_coso": 4277,
+  "idchudautu": 4227
+ },
+ {
+  "id_coso": 4278,
+  "idchudautu": 4227
+ },
+ {
+  "id_coso": 4279,
+  "idchudautu": 4228
+ },
+ {
+  "id_coso": 4281,
+  "idchudautu": 4229
+ },
+ {
+  "id_coso": 4282,
+  "idchudautu": 4229
+ },
+ {
+  "id_coso": 4283,
+  "idchudautu": 4230
+ },
+ {
+  "id_coso": 4284,
+  "idchudautu": 4231
+ },
+ {
+  "id_coso": 4286,
+  "idchudautu": 4232
+ },
+ {
+  "id_coso": 4287,
+  "idchudautu": 4232
+ },
+ {
+  "id_coso": 4288,
+  "idchudautu": 4233
+ },
+ {
+  "id_coso": 4290,
+  "idchudautu": 4234
+ },
+ {
+  "id_coso": 4291,
+  "idchudautu": 4234
+ },
+ {
+  "id_coso": 4292,
+  "idchudautu": 4235
+ },
+ {
+  "id_coso": 4293,
+  "idchudautu": 4236
+ },
+ {
+  "id_coso": 4294,
+  "idchudautu": 4237
+ },
+ {
+  "id_coso": 4295,
+  "idchudautu": 4238
+ },
+ {
+  "id_coso": 4296,
+  "idchudautu": 4239
+ },
+ {
+  "id_coso": 4297,
+  "idchudautu": 4240
+ },
+ {
+  "id_coso": 4298,
+  "idchudautu": 4241
+ },
+ {
+  "id_coso": 4299,
+  "idchudautu": 4242
+ },
+ {
+  "id_coso": 4300,
+  "idchudautu": 4242
+ },
+ {
+  "id_coso": 4301,
+  "idchudautu": 4243
+ },
+ {
+  "id_coso": 4302,
+  "idchudautu": 4244
+ },
+ {
+  "id_coso": 4303,
+  "idchudautu": 4245
+ },
+ {
+  "id_coso": 4304,
+  "idchudautu": 4246
+ },
+ {
+  "id_coso": 4305,
+  "idchudautu": 4247
+ },
+ {
+  "id_coso": 4306,
+  "idchudautu": 4248
+ },
+ {
+  "id_coso": 4307,
+  "idchudautu": 4249
+ },
+ {
+  "id_coso": 4308,
+  "idchudautu": 4250
+ },
+ {
+  "id_coso": 4309,
+  "idchudautu": 4251
+ },
+ {
+  "id_coso": 4310,
+  "idchudautu": 4252
+ },
+ {
+  "id_coso": 4311,
+  "idchudautu": 4253
+ },
+ {
+  "id_coso": 4312,
+  "idchudautu": 4253
+ },
+ {
+  "id_coso": 4313,
+  "idchudautu": 4253
+ },
+ {
+  "id_coso": 4314,
+  "idchudautu": 4254
+ },
+ {
+  "id_coso": 4315,
+  "idchudautu": 4255
+ },
+ {
+  "id_coso": 4316,
+  "idchudautu": 4256
+ },
+ {
+  "id_coso": 4317,
+  "idchudautu": 4257
+ },
+ {
+  "id_coso": 4318,
+  "idchudautu": 4258
+ },
+ {
+  "id_coso": 4319,
+  "idchudautu": 4259
+ },
+ {
+  "id_coso": 4320,
+  "idchudautu": 4260
+ },
+ {
+  "id_coso": 4321,
+  "idchudautu": 4261
+ },
+ {
+  "id_coso": 4322,
+  "idchudautu": 4262
+ },
+ {
+  "id_coso": 4323,
+  "idchudautu": 4262
+ },
+ {
+  "id_coso": 4324,
+  "idchudautu": 4263
+ },
+ {
+  "id_coso": 4325,
+  "idchudautu": 4264
+ },
+ {
+  "id_coso": 4326,
+  "idchudautu": 4265
+ },
+ {
+  "id_coso": 4327,
+  "idchudautu": 4266
+ },
+ {
+  "id_coso": 4328,
+  "idchudautu": 4267
+ },
+ {
+  "id_coso": 4329,
+  "idchudautu": 4268
+ },
+ {
+  "id_coso": 4330,
+  "idchudautu": 4269
+ },
+ {
+  "id_coso": 4331,
+  "idchudautu": 4270
+ },
+ {
+  "id_coso": 4332,
+  "idchudautu": 4271
+ },
+ {
+  "id_coso": 4333,
+  "idchudautu": 4272
+ },
+ {
+  "id_coso": 4334,
+  "idchudautu": 4273
+ },
+ {
+  "id_coso": 4335,
+  "idchudautu": 4274
+ },
+ {
+  "id_coso": 4336,
+  "idchudautu": 4275
+ },
+ {
+  "id_coso": 4337,
+  "idchudautu": 4276
+ },
+ {
+  "id_coso": 4338,
+  "idchudautu": 4277
+ },
+ {
+  "id_coso": 4339,
+  "idchudautu": 4278
+ },
+ {
+  "id_coso": 4340,
+  "idchudautu": 4279
+ },
+ {
+  "id_coso": 4341,
+  "idchudautu": 4280
+ },
+ {
+  "id_coso": 4342,
+  "idchudautu": 4281
+ },
+ {
+  "id_coso": 4343,
+  "idchudautu": 4282
+ },
+ {
+  "id_coso": 4344,
+  "idchudautu": 4283
+ },
+ {
+  "id_coso": 4345,
+  "idchudautu": 4284
+ },
+ {
+  "id_coso": 4346,
+  "idchudautu": 4285
+ },
+ {
+  "id_coso": 4347,
+  "idchudautu": 4286
+ },
+ {
+  "id_coso": 4348,
+  "idchudautu": 4287
+ },
+ {
+  "id_coso": 4349,
+  "idchudautu": 4288
+ },
+ {
+  "id_coso": 4350,
+  "idchudautu": 4289
+ },
+ {
+  "id_coso": 4351,
+  "idchudautu": 4290
+ },
+ {
+  "id_coso": 4352,
+  "idchudautu": 4291
+ },
+ {
+  "id_coso": 4353,
+  "idchudautu": 4292
+ },
+ {
+  "id_coso": 4354,
+  "idchudautu": 4293
+ },
+ {
+  "id_coso": 4355,
+  "idchudautu": 4294
+ },
+ {
+  "id_coso": 4356,
+  "idchudautu": 4295
+ },
+ {
+  "id_coso": 4358,
+  "idchudautu": 4296
+ },
+ {
+  "id_coso": 4359,
+  "idchudautu": 4296
+ },
+ {
+  "id_coso": 4360,
+  "idchudautu": 4297
+ },
+ {
+  "id_coso": 4361,
+  "idchudautu": 4298
+ },
+ {
+  "id_coso": 4362,
+  "idchudautu": 4299
+ },
+ {
+  "id_coso": 4363,
+  "idchudautu": 4300
+ },
+ {
+  "id_coso": 4364,
+  "idchudautu": 4301
+ },
+ {
+  "id_coso": 4365,
+  "idchudautu": 4302
+ },
+ {
+  "id_coso": 4366,
+  "idchudautu": 4303
+ },
+ {
+  "id_coso": 4367,
+  "idchudautu": 4304
+ },
+ {
+  "id_coso": 4368,
+  "idchudautu": 4305
+ },
+ {
+  "id_coso": 4369,
+  "idchudautu": 4306
+ },
+ {
+  "id_coso": 4370,
+  "idchudautu": 4307
+ },
+ {
+  "id_coso": 4371,
+  "idchudautu": 4307
+ },
+ {
+  "id_coso": 4372,
+  "idchudautu": 4308
+ },
+ {
+  "id_coso": 4373,
+  "idchudautu": 4309
+ },
+ {
+  "id_coso": 4374,
+  "idchudautu": 4310
+ },
+ {
+  "id_coso": 4375,
+  "idchudautu": 4311
+ },
+ {
+  "id_coso": 4376,
+  "idchudautu": 4311
+ },
+ {
+  "id_coso": 4377,
+  "idchudautu": 4311
+ },
+ {
+  "id_coso": 4378,
+  "idchudautu": 4312
+ },
+ {
+  "id_coso": 4379,
+  "idchudautu": 4313
+ },
+ {
+  "id_coso": 4380,
+  "idchudautu": 4314
+ },
+ {
+  "id_coso": 4381,
+  "idchudautu": 4315
+ },
+ {
+  "id_coso": 4382,
+  "idchudautu": 4316
+ },
+ {
+  "id_coso": 4383,
+  "idchudautu": 4317
+ },
+ {
+  "id_coso": 4384,
+  "idchudautu": 4318
+ },
+ {
+  "id_coso": 4385,
+  "idchudautu": 4319
+ },
+ {
+  "id_coso": 4386,
+  "idchudautu": 4320
+ },
+ {
+  "id_coso": 4387,
+  "idchudautu": 4321
+ },
+ {
+  "id_coso": 4388,
+  "idchudautu": 4322
+ },
+ {
+  "id_coso": 4389,
+  "idchudautu": 4323
+ },
+ {
+  "id_coso": 4390,
+  "idchudautu": 4324
+ },
+ {
+  "id_coso": 4391,
+  "idchudautu": 4325
+ },
+ {
+  "id_coso": 4392,
+  "idchudautu": 4326
+ },
+ {
+  "id_coso": 4393,
+  "idchudautu": 4327
+ },
+ {
+  "id_coso": 4394,
+  "idchudautu": 4328
+ },
+ {
+  "id_coso": 4395,
+  "idchudautu": 4329
+ },
+ {
+  "id_coso": 4396,
+  "idchudautu": 4350
+ },
+ {
+  "id_coso": 4397,
+  "idchudautu": 4351
+ },
+ {
+  "id_coso": 4398,
+  "idchudautu": 4366
+ },
+ {
+  "id_coso": 4400,
+  "idchudautu": 4368
+ },
+ {
+  "id_coso": 4401,
+  "idchudautu": 4369
+ },
+ {
+  "id_coso": 4402,
+  "idchudautu": 4370
+ },
+ {
+  "id_coso": 4403,
+  "idchudautu": 4371
+ },
+ {
+  "id_coso": 4404,
+  "idchudautu": 4372
+ },
+ {
+  "id_coso": 4405,
+  "idchudautu": 4373
+ },
+ {
+  "id_coso": 4406,
+  "idchudautu": 4374
+ },
+ {
+  "id_coso": 4407,
+  "idchudautu": 4375
+ },
+ {
+  "id_coso": 4410,
+  "idchudautu": 4376
+ },
+ {
+  "id_coso": 4411,
+  "idchudautu": 4377
+ },
+ {
+  "id_coso": 4412,
+  "idchudautu": 4378
+ },
+ {
+  "id_coso": 4413,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4414,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4415,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4416,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4417,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4418,
+  "idchudautu": 4379
+ },
+ {
+  "id_coso": 4419,
+  "idchudautu": 4380
+ },
+ {
+  "id_coso": 4420,
+  "idchudautu": 4380
+ },
+ {
+  "id_coso": 4421,
+  "idchudautu": 4380
+ },
+ {
+  "id_coso": 4422,
+  "idchudautu": 4381
+ },
+ {
+  "id_coso": 4423,
+  "idchudautu": 4381
+ },
+ {
+  "id_coso": 4424,
+  "idchudautu": 4382
+ },
+ {
+  "id_coso": 4425,
+  "idchudautu": 4382
+ },
+ {
+  "id_coso": 4426,
+  "idchudautu": 4383
+ },
+ {
+  "id_coso": 4427,
+  "idchudautu": 4384
+ },
+ {
+  "id_coso": 4428,
+  "idchudautu": 4385
+ },
+ {
+  "id_coso": 4429,
+  "idchudautu": 4386
+ },
+ {
+  "id_coso": 1460,
+  "idchudautu": 240
+ }
+]
