@@ -19,8 +19,8 @@ class CreateMoiTruongQuocGiaController extends Controller
     private function getToken()
     {
         $curl = curl_init();
-        curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
-        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, 2);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, true);
         curl_setopt_array($curl, array(
             CURLOPT_URL =>  $this->API_MTQG . '/CSDL/quantridulieu/token',
             CURLOPT_RETURNTRANSFER => true,
